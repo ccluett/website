@@ -4,6 +4,7 @@ nav: true
 ---
 
 --------
+
 | date       	| race                            	| location         	| distance 	| time    	| result  	|
 |------------	|---------------------------------	|------------------	|----------	|---------	|---------	|
 | 2015-11-15 	| Lil Rhody trail race            	| Charlestown, RI  	| 8 mi     	| 53:57   	|         	|
@@ -29,19 +30,3 @@ nav: true
 | 2018-03-04 	| Belleville Pond trail race      	| Wickford, RI     	| 10k      	| 43:08   	|         	|
 | 2021-08-15 	| Falmouth road race              	| Falmouth, MA     	| 7 mi     	| 45:43   	|         	|
 | 2021-11-14 	| Falmouth fall road race         	| Falmouth, MA     	| 7 mi     	| 42:39   	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
-|            	|                                 	|                  	|          	|         	|         	|
