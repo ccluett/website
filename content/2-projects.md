@@ -1,5 +1,5 @@
 ---
-title: Projects
-nav: projects
+title: projects
+nav: true
 ---
 
