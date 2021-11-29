@@ -43,11 +43,11 @@ Collegiate cycling is the essence of what sports should be: a DIY ethos; largely
 
 {% include figure.html img="2011-ohio.jpg" caption="My first (and only) win in the Men's B category in freezing rain at the Ohio State road race." width="100%" %}
 
+{% include figure.html img="wisconsin-cycling-cornering.jpg" caption="University of Washington Criterium, around the Wisconsin capital, circa spring 2010." width="100%" %}
+
 {% include figure.html img="2012-michigan-crit.jpg" caption="We hosted our 2012 road race on a closed auto course. Likely one of my last collegiate races." width="65%" %}
 
 {% include figure.html img="2011-iceman.jpg" caption="The Iceman Cometh in northern Michigan, November 2011." width="65%" %}
-
-{% include figure.html img="wisconsin-cycling-cornering.jpg" caption="University of Washington Criterium, around the Wisconsin capital, circa spring 2010." width="100%" %}
 
 {% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI." width="65%" %}
 
