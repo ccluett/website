@@ -1,5 +1,5 @@
 ---
 title: title
-nav: 6DOF
+nav: 6dof
 topics: maneuvering
 ---
