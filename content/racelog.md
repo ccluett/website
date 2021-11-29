@@ -31,11 +31,24 @@ nav: true
 | 2021-08-15 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  45:43  	|         	|
 | 2021-11-14 	|     Falmouth fall road race     	|   Falmouth, MA   	|   7 mi   	|  42:39  	|         	|
 
+
 ------------
 
-## 2008 - 2012 Michigan Cycling
-Eventually I'd like to find and log over 4 years of lost road, mountain and cyclocross racing. For now, a few photos from the archives will hold place.
+## michigan cycling
+Collegiate cycling is the essence of what sports should be: a DIY ethos; largely unstructured, but structured just enough to function; future olympians and people racing for the first time; competitive but relaxed, and everyone hangs out together regardless afterwards. I was team president in 2011, hosted two race weekends and oversaw our yearly spring break training trip to the Blue Ridge Mountains in Georgia. Eventually I'd like to find and log over 4 years of lost road, mountain and cyclocross racing between 2008 to 2012. For now, a few photos from the archives...
 
-{% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI" width="100%" %}
+{% include figure.html img="2009-team.jpg" caption="2008-2009 team on the top of Brasstown Bald in GA." width="100%" %}
 
-{% include figure.html img="wisconsin-cycling-cornering.jpg" caption="University of Washington Criterium, around the Wisconsin capital, circa spring 2010" width="200%" %}
+{% include figure.html img="2011-team.jpg" caption="2010-2011 team on our spring break training trip in GA." width="100%" %}
+
+{% include figure.html img="2011-ohio.jpg" caption="My first (and only) win in the Men's B category in freezing rain at the Ohio State road race." width="100%" %}
+
+{% include figure.html img="2012-michigan-crit.jpg" caption="We hosted our 2012 road race on a closed auto course. Likely one of my last collegiate races." width="100%" %}
+
+{% include figure.html img="2011-iceman.jpg" caption="The Iceman Cometh in northern Michigan, November 2011." width="100%" %}
+
+{% include figure.html img="wisconsin-cycling-cornering.jpg" caption="University of Washington Criterium, around the Wisconsin capital, circa spring 2010." width="100%" %}
+
+{% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI." width="100%" %}
+
+
