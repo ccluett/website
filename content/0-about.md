@@ -19,7 +19,6 @@ Naval Architect (2013-2017)\
 Naval Architect (2012-2013)\
 [General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT
 
-
-
+#
 
 For engineering services and consulting inquries, contact: ccluett@whoi.edu
