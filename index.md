@@ -19,4 +19,4 @@ Chris is a naval architect and mechanical engineer at Woods Hole Oceanographic I
 * Non-linear 6-degree of freedom modeling
 * Tow tank testing and data acquisition
 
-
+![](/images/Picture2.png)
