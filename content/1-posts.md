@@ -3,5 +3,4 @@ title: Posts
 nav: posts
 ---
 
-## Posts
-
+Maybe one day.
