@@ -26,4 +26,4 @@ Naval Architect (2012-2013)\
 
 For engineering services and consulting inquries, contact: ccluett@whoi.edu
 
-![](/images/picture2.png)
+{% include figure.html img="picture2.png" width="100%" %}
