@@ -28,8 +28,11 @@ nav: true
 | 2017-10-15 	|       Molly Huddle XC race      	|  Providence, RI  	|    5k    	|  17:13  	|         	|
 | 2018-02-10 	|  Old Mountain Field trail race  	|   Wakefield, RI  	|    5k    	|  19:52  	|         	|
 | 2018-03-04 	|    Belleville Pond trail race   	|   Wickford, RI   	|    10k   	|  43:08  	|         	|
+| 2018-06-09 	|     Hill Farmstead trail half   	|  Craftsbury, VT  	|   13.1 mi | 1:34:45 	|         	|
 | 2021-08-15 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  45:43  	|         	|
 | 2021-11-14 	|     Falmouth fall road race     	|   Falmouth, MA   	|   7 mi   	|  42:39  	|         	|
+
+{% include figure.html img="IMG-1134.jpg" caption="Hill Farmstead Half Marathon, Craftsbury VT, 2018" width="100%" %}
 
 <br>
 
