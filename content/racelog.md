@@ -34,6 +34,8 @@ nav: true
 ------------
 
 ## 2008 - 2012 Michigan Cycling
-Eventually I'd like to find and log over 4 years of road, mountain and cyclocross racing. For now, a few photos from the archives will hold place.
+Eventually I'd like to find and log over 4 years of lost road, mountain and cyclocross racing. For now, a few photos from the archives will hold place.
 
 {% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI" width="100%" %}
+
+{% include figure.html img="wisconsin-cycling-cornering.jpg" caption="University of Washington Criterium, around the Wisconsin capital, circa spring 2010" width="200%" %}
