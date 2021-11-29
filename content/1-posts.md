@@ -1,7 +1,6 @@
 ---
-title: title
+title: Posts
 nav: posts
-topics: posts
 ---
 
 ## Posts
