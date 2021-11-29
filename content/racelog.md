@@ -30,3 +30,10 @@ nav: true
 | 2018-03-04 	|    Belleville Pond trail race   	|   Wickford, RI   	|    10k   	|  43:08  	|         	|
 | 2021-08-15 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  45:43  	|         	|
 | 2021-11-14 	|     Falmouth fall road race     	|   Falmouth, MA   	|   7 mi   	|  42:39  	|         	|
+
+------------
+
+## 2008 - 2012 Michigan Cycling
+Eventually I'd like to find and log over 4 years of road, mountain and cyclocross racing. For now, a few photos from the archives will hold place.
+
+{% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI" width="100%" %}
