@@ -3,16 +3,16 @@ title: Home
 layout: default
 ---
 
-# chris cluett (dot com)
+## intro
 Chris is a naval architect and mechanical engineer at Woods Hole Oceanographic Institution, with experience in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of specific interest include large UUVs, mechanical systems, hydrodynamics, electric propulsion, underwater vehicle dynamics, computational fluid dynamics and website design.
 
 ![](/images/Picture1.png)
 
-## Education
+## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
 
-## Experience
+## experience
 [Naval Architect/Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) (2019-Present)\
 [Oceanographic Systems Lab](https://www2.whoi.edu/site/osl/), [Woods Hole Oceanographic Institution](https://www.whoi.edu/) - Woods Hole, MA
   
@@ -25,7 +25,7 @@ Naval Architect (2013-2017)\
 Naval Architect (2012-2013)\
 [General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT
 
-## Skills and Expertise
+## expertise
 * Rapid prototyping using additive and subtractive manufacturing methods
 * Fabrication of metal and composite structures for subsea environments
 * Electric powertrain design and optimization for marine vehicles
