@@ -24,7 +24,7 @@ nav: true
 | 2017-07-15 	| Run with the Beavers trail race 	|   Chepachet, RI  	|   10 mi  	| 1:06:37 	|  5th OA 	|
 | 2017-08-16 	|      Bobby Doyle road race      	| Narragansett, RI 	|   5 mi   	|  28:05  	| 27th OA 	|
 | 2017-09-10 	|       Salem 10k road race       	|     Salem, MA    	|    10k   	|  35:37  	|  1st OA 	|
-| 2017-10-08 	|        BAA half marathon        	|    Boston, MA    	|  13.1 mi 	|         	|         	|
+| 2017-10-08 	|        BAA half marathon        	|    Boston, MA    	|  13.1 mi 	| 1:25:18 	|         	|
 | 2017-10-15 	|       Molly Huddle XC race      	|  Providence, RI  	|    5k    	|  17:13  	|         	|
 | 2018-02-10 	|  Old Mountain Field trail race  	|   Wakefield, RI  	|    5k    	|  19:52  	|         	|
 | 2018-03-04 	|    Belleville Pond trail race   	|   Wickford, RI   	|    10k   	|  43:08  	|         	|
