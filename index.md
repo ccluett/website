@@ -6,7 +6,7 @@ layout: default
 ## intro
 Chris is a naval architect and mechanical engineer at Woods Hole Oceanographic Institution, with experience in the design, analysis, simulation and fabrication of underwater vehicles, surface vessels and hydro-mechanical systems. Areas of specific interest include large UUVs, mechanical systems, hydrodynamics, electric propulsion, underwater vehicle dynamics, computational fluid dynamics and website design.
 
-![](/images/Picture1.png){:height="200px"}
+![](/images/Picture1.png)
 
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
