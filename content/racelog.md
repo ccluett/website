@@ -31,8 +31,7 @@ nav: true
 | 2021-08-15 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  45:43  	|         	|
 | 2021-11-14 	|     Falmouth fall road race     	|   Falmouth, MA   	|   7 mi   	|  42:39  	|         	|
 
-
-<br/>
+<br>
 
 ------------
 
