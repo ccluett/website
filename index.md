@@ -36,5 +36,4 @@ Naval Architect (2012-2013)\
 * Non-linear 6-degree of freedom modeling
 * Tow tank testing and data acquisition
 
-------
 
