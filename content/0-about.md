@@ -1,10 +1,7 @@
 ---
-title: about
+title:
 nav: about
 ---
-
-For engineering services and consulting inquries, contact: ccluett@whoi.edu
-
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
@@ -21,3 +18,6 @@ Naval Architect (2013-2017)\
   
 Naval Architect (2012-2013)\
 [General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT
+
+
+For engineering services and consulting inquries, contact: ccluett@whoi.edu
