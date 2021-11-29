@@ -1,5 +1,5 @@
 ---
-title: title
+title: math
 nav: math
 topics: math
 ---
