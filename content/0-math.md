@@ -1,6 +1,6 @@
 ---
 title: title
-nav: mathtest
+nav: math
 topics: math
 ---
 
