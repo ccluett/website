@@ -17,8 +17,8 @@ Naval Architect (2013-2017)\
 [Bristol Harbor Group, Inc.](https://bristolharborgroup.com/) - Bristol, RI
   
 Naval Architect (2012-2013)\
-[General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT
-
-#
-
+[General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT  
+  
+  
+  <br>
 For engineering services and consulting inquries, contact: ccluett@whoi.edu
