@@ -51,8 +51,7 @@ Collegiate cycling is the essence of what sports should be: a DIY ethos; largely
 
 {% include figure.html img="2012-michigan-crit.jpg" caption="We hosted our 2012 road race on a closed auto course. Likely one of my last collegiate races." width="65%" %}
 
-{% include figure.html img="2011-iceman.jpg" caption="The Iceman Cometh in northern Michigan, November 2011." width="65%" %}
+{% include figure.html img="2011-iceman.jpg" caption="The Iceman Cometh in northern Michigan, November 2011." width="65%" %} {% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI." width="65%" %}
 
-{% include figure.html img="mtb-michigan.jpg" caption="Possibly from from our host race weekend, circa Fall 2010, at Hanson Hills in Greyling, MI." width="65%" %}
 
 
