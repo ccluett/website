@@ -3,6 +3,6 @@ title: posts
 nav: true
 ---
 
-[This is a test](content/Doc1.htm)
+[This is a test](Doc1.htm)
 
 
