@@ -33,6 +33,6 @@ The *Clean Jacksonville* was the first LNG bunkering barge built in North Americ
 
 {% include figure.html img="Quad-Cities-crane.jpg" caption="https://www.waterwaysjournal.net/2019/10/18/new-quad-cities-crane-headed-to-rock-island-district/" width="100%" %}
 
-{% include figure.html img=".quad-cities.JPG" caption="https://www.nap.usace.army.mil/Missions/Factsheets/Fact-Sheet-Article-View/Article/2050038/usace-floating-crane-quad-cities/" width="100%" %}
+{% include figure.html img="quad-cities.JPG" caption="https://www.nap.usace.army.mil/Missions/Factsheets/Fact-Sheet-Article-View/Article/2050038/usace-floating-crane-quad-cities/" width="100%" %}
 
 -------
