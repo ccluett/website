@@ -21,3 +21,5 @@ I enjoy the creative process of design and fabrication. To me, Naval Architectur
 * Non-linear 6-degree of freedom modeling
 * Tow tank testing and data acquisition
 
+
+{% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
