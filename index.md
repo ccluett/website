@@ -11,15 +11,14 @@ I enjoy the creative process of design and fabrication. To me, Naval Architectur
 {% include figure.html img="Picture1.png" width="100%" %}
 
 ## expertise
-* Rapid prototyping using additive and subtractive manufacturing methods
-* Fabrication of metal and composite structures for subsea environments
+* Marine vessel design and analysis
+* Design and fabrication of metal and composite structures for surface and subsea environments
 * Electric powertrain design and optimization for marine vehicles
-* Hydrodynamic optimization of subsea vehicles
+* Hydrodynamic optimization of UUVs
 * Parametric, solid and surface modeling
 * Linear and non-linear large deformation FEA
 * RANS-based CFD modeling
-* Non-linear 6-degree of freedom modeling
+* 6DOF modeling for UUVs
 * Tow tank testing and data acquisition
-
 
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
