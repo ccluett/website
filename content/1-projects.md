@@ -27,7 +27,7 @@ The *Clean Jacksonville* was the first LNG bunkering barge built in North Americ
 
 ## US Army Corps of Engineers Floating Crane Barge *Quad Cities* 
 
-*Quad Cities* is a 300ft long, 68ft wide floating crane barge with a 500 ton max lift capability. It was designed designed for USACE Rock Island District, as a replacement crane barge to service the sector gates on the inland waterways. I was lead design on this project, conducting all structural and stability calculations, in addition to a full ABS approved design drawing package. The barge was fabricated by Conrad Shipyard in Morgan City, La. The crane was designed and fabricated by Seatrax out of Houston, Tx.
+*Quad Cities* is a 300ft long, 68ft wide floating crane barge with a 500 ton max lift capability. It was designed for US Army Corps of Engineers Rock Island District, as a replacement crane barge to service the sector gates on the inland waterways. I was lead design on this project, conducting all structural and stability calculations, in addition to a full ABS approved design drawing package. The barge was fabricated by Conrad Shipyards in Morgan City, La. The crane was designed and fabricated by Seatrax of Houston, Tx.
 
 {% include figure.html img="quad-cities-cad.JPG" caption="https://www.nap.usace.army.mil/Portals/39/docs/MDC/703-D205-01-OUTBOARD-QUAD-CITIES.pdf" width="100%" %}
 
