@@ -1,6 +1,6 @@
 ---
 title: about
-nav: about
+nav: true
 ---
 
 -----------
