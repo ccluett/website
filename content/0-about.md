@@ -5,6 +5,8 @@ nav: true
 
 -----------
 
+{% include figure.html img="picture2.png" width="100%" %}
+
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
@@ -24,6 +26,5 @@ Naval Architect (2012-2013)\
   
 <br>
 
-For engineering services and consulting inquries, contact: ccluett@whoi.edu
+{% include figure.html img="img_312438.jpg" width="100%" %}
 
-{% include figure.html img="picture2.png" width="100%" %}
