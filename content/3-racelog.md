@@ -31,6 +31,7 @@ nav: true
 | 2018-06-09 	|     Hill Farmstead trail half   	|  Craftsbury, VT  	|   13.1 mi | 1:34:45 	|
 | 2021-08-15 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  45:43  	|
 | 2021-11-14 	|     Falmouth fall road race     	|   Falmouth, MA   	|   7 mi   	|  42:39  	|
+| 2022-08-21 	|        Falmouth road race       	|   Falmouth, MA   	|   7 mi   	|  44:12  	|
 
 {% include figure.html img="IMG-1134.jpg" caption="Hill Farmstead Half Marathon, Craftsbury VT, 2018" width="100%" %}
 
