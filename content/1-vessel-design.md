@@ -1,5 +1,5 @@
 ---
-title: projects
+title: vessel design
 nav: true
 ---
 
