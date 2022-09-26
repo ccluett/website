@@ -19,7 +19,7 @@ The DARPA SUBOFF model and Carderock Tow Tank data are available in the public d
 
 ## Solcum Glider Flight Performance
 
-CFD aided in identifying and quantifying poor flight performance of a Solcum Glider, and helped develop solutions for integration of scientific sensors. 
+CFD aided in identifying and quantifying poor flight performance of a Solcum Glider, and helped develop solutions for integrating scientific sensors while maintaining flight performance. 
 
 {% include figure.html img="slocum-glider.JPG" width="100%" %}
 
@@ -27,7 +27,7 @@ CFD aided in identifying and quantifying poor flight performance of a Solcum Gli
 
 ## Propeller Performance Simulation
 
-Propeller performance can be modeled using either steady and unsteady RANS. For highest fielding overset grids are simulated in a transient approach. Rotating frames of reference can be used for a steady state approximation, which allow for a computationally efficient simulation. The Potsdam Propeller is a validation data set available in the public domain. I conducted this simulation using a relatively small grid at a fixed RPM across a range of advance velocities to develop the open water propeller curves to compare to tank tested results. Overall, it demonstrates the ability to get reasonable results using a computationally efficient approach.
+Propeller performance can be modeled using either steady and unsteady RANS. For highest fidelity simulations, overset or adaptive grids are used with a transient approach. Rotating frames of reference can be used for a steady state simulation, which greatly reduces computational resources required. The Potsdam Propeller is a validation data set available in the public domain. I conducted this simulation using a relatively small grid at a fixed RPM across a range of advance velocities to develop the open water propeller curves to compare to tank tested results. Overall, it demonstrates the ability to get reasonable results using a computationally efficient rotating frame of reference approach.
 
 {% include figure.html img="potsdam.png" width="100%" %}
 
