@@ -5,8 +5,6 @@ nav: true
 
 -----------
 
-{% include figure.html img="picture2.png" width="100%" %}
-
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
@@ -25,6 +23,5 @@ Naval Architect (2012-2013)\
 [General Dynamics Electric Boat](https://www.gdeb.com/) - Groton, CT  
   
 <br>
-
 {% include figure.html img="img_312438.jpg" width="100%" %}
 
