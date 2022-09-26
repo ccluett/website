@@ -1,0 +1,6 @@
+---
+title: mechanical
+nav: true
+---
+
+--------
