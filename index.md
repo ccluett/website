@@ -8,7 +8,7 @@ I'm a naval architect and mechanical engineer at Woods Hole Oceanographic Instit
 
 I enjoy the creative process of design and fabrication. To me, Naval Architecture offers the ability to blend architectural and artistic elements into design, while remaining rooted in physics.
 
-{% include figure.html img="picture2.png" width="100%" %}
+{% include figure.html img="picture1.png" width="100%" %}
 
 ## expertise
 * Marine vessel design and analysis
