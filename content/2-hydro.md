@@ -21,7 +21,7 @@ The DARPA SUBOFF model and Carderock Tow Tank data are available in the public d
 
 CFD aided in identifying and quantifying poor flight performance of a Solcum Glider, and helped develop solutions for integration of scientific sensors. 
 
-{% include figure.html img="slocum-glider.jpg" width="100%" %}
+{% include figure.html img="slocum-glider.JPG" width="100%" %}
 
 ------
 
