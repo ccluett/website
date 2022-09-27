@@ -41,5 +41,5 @@ Propeller performance can be modeled using either steady and unsteady RANS. For 
 
 I built a 6-degree of freedom model of a UUV, using CFD and emprical methods to develop a set of hydrodynamic coefficients of the vehicle for both forward and reverse. The model combines rigid body dynamics with hydrodynamic forces and moments to develop the equations of motion for a UUV in all 6-degrees. The model uses Feldman's Revised Standard Equations of Motions for a Submarine. I put the below graphic together to better help illustrate the physics of a turning maneuver. Principles of Naval Architecture Vol III is used as reference.
 
-{% include figure.html img="turning.JPG" width="100%" %}
+{% include figure.html img="turning.JPG" width="200%" %}
 
