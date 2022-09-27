@@ -9,7 +9,7 @@ I design, analyze, build, and test machined, welded, composite, cast, and 3D pri
 
 I help continue the development of the REMUS line of underwater vehicles, as well as design and develop various other oceanographic and subsea systems and hardware.
 
-My driving principles are simplicity and elegance in design, and the need to understand design intent at a top systems level.
+My driving principles are simplicity and elegance in design, and the importance of designing with top system level understanding and overall design intent.
 
 {% include figure.html img="r600.JPG" width="100%" %}
 
