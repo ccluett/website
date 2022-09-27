@@ -1,5 +1,5 @@
 ---
-title: mechanical design
+title: mechanical
 nav: true
 ---
 
