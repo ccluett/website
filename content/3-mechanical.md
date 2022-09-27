@@ -11,7 +11,7 @@ I help continue the development of the REMUS line of underwater vehicles, as wel
 
 My driving principles are simplicity and elegance in design, and the need to understand design intent at a top systems level.
 
-{% include figure.html img="r600.heif" width="100%" %}
+{% include figure.html img="r600.JPG" width="100%" %}
 
 
 --------
