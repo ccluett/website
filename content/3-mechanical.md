@@ -11,12 +11,18 @@ I help continue the development of the REMUS line of underwater vehicles, as wel
 
 My driving principles are simplicity and elegance in design, and the need to understand design intent at a top systems level.
 
+{% include figure.html img="r600.heif" width="100%" %}
+
 
 --------
 
-## Structural Design
+## structural design
 
 I use both finite element and first-principles based analysis to structurally design subsea components and hardware, including large deformation nonlinear collapse  of pressure vessels and boundaries.
 
+{% include figure.html img="tank.JPG" width="100%" %}
 
+{% include figure.html img="hull-fea.JPG" width="100%" %}
+
+{% include figure.html img="PT_hull.jpg" width="100%" %}
 
