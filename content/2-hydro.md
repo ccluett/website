@@ -1,6 +1,6 @@
 ---
 title: hydro
-nav: true
+nav: hydro
 ---
 
 ------
