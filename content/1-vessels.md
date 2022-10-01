@@ -1,6 +1,6 @@
 ---
 title: vessels
-nav: true
+nav: vessels
 ---
 
 ------
