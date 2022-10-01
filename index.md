@@ -24,7 +24,4 @@ I enjoy the creative process of design and fabrication. To me, Naval Architectur
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
 
 ---------
-
-{% include toc.html %}
-
 <p style="text-align: center;">Copyright © 2022 Christopher Cluett. All Rights Reserved.</p>
