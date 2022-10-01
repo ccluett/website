@@ -15,7 +15,7 @@ My driving principles are simplicity and elegance in design, and the importance 
 
 {% include figure.html img="fabs1.JPG" width="100%" %}
 
-{% include figure.html img="fabs2.JPG" width="100%" %}
+{% include figure.html img="fab2.JPG" width="100%" %}
 
 
 --------
