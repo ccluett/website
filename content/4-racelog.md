@@ -3,8 +3,6 @@ title: race log
 nav: race log
 ---
 
---------
-
 |    date    	|               race              	|     location     	| distance 	|   time  	|
 |:----------:	|:-------------------------------:	|:----------------:	|:--------:	|:-------:	|
 | 2015-11-15 	|       Lil Rhody trail race      	|  Charlestown, RI 	|   8 mi   	|  53:57  	|
