@@ -27,4 +27,4 @@ I enjoy the creative process of design and fabrication. To me, Naval Architectur
 
 {% include toc.html %}
 
-<p style="text-align: center;">Copyright (C) 2022 Christopher Cluett. All Rights Reserved.</p>
+<p style="text-align: center;">Copyright © 2022 Christopher Cluett. All Rights Reserved.</p>
