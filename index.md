@@ -22,3 +22,5 @@ I enjoy the creative process of design and fabrication. To me, Naval Architectur
 * Tow tank testing and data acquisition
 
 {% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
+
+Copyright (C) 2022 Christopher Cluett. All Rights Reserved.
