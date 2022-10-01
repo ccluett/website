@@ -3,8 +3,6 @@ title: hydro
 nav: hydro
 ---
 
-------
-
 Reynolds Averaged Navier Stokes (RANS) CFD is a time averaged approch to simulate a flow field. I use Ansys Fluent to solve applied hydrodynamics problems using RANS CFD, such as performance and powering prediction of UUVs and surface vessels, control surface modeling, and interaction of components in a flow field.
 
 ------
