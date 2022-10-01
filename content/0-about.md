@@ -3,8 +3,6 @@ title: about
 nav: about
 ---
 
------------
-
 ## education
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
