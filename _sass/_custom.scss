@@ -2,3 +2,12 @@
 .navbar-custom .navbar-nav .nav-link {
     color: #ffbb00;
 }
+
+
+header {
+    @if variable-exists(top-border) { border-top: solid 4px $top-border; }
+
+    .navbar-custom .navbar-nav .nav-link {
+    color: #ddaa11;
+    }
+}
