@@ -9,6 +9,8 @@ The *Annie Moore* is a 74 ft steel-hulled Subchapter T passenger and utility ves
 
 {% include figure.html img="AnnieMoore-OutboardProfile.jpg" alt="annie moore" caption="Annie Moore Outboard Profile" width="100%" %}
 
+{% include figure.html img="AM-waves.png" alt="annie moore" caption="3-DOF RANS CFD" width="100%" %}
+
 {% include figure.html img="Annie_Moore.jpg" alt="annie moore" caption="US NPS Annie Moore" width="100%" %}
 
 ------
