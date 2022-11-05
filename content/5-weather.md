@@ -6,7 +6,7 @@ nav: weather
 <!---Radar--->
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
-<center> [Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) </center>
+[Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
 {% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
 
@@ -15,7 +15,7 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif" caption="1 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd.gif" caption="2-1/2 Day Forecast" width="100%" %}
-<center> [Loop](https://www.wpc.ncep.noaa.gov/basicwx/bwxloop_ndfd.html) </center>
+[Loop](https://www.wpc.ncep.noaa.gov/basicwx/bwxloop_ndfd.html)
 
 
 
@@ -39,6 +39,6 @@ nav: weather
 <!---Wave--->
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
 
-<iframe width="600" height="400"
+<center><iframe width="600" height="400"
         src="https://embed.windy.com/embed2.html?lat=42.280&lon=-71.128&detailLat=42.280&detailLon=-71.128&width=650&height=450&zoom=5&level=surface&overlay=temp&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
-        frameborder="0"></iframe>
+        frameborder="0"></iframe> </center>
