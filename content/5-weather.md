@@ -12,7 +12,8 @@ nav: weather
 
 {% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
 
-
+# forecast
+--------
 <!---Forecast--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif" caption="1 Day Forecast" width="100%" %}
@@ -23,6 +24,8 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
 
+# temp
+--------
 <!---Temperature--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
@@ -30,7 +33,8 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MAX_ANOM_filled.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MIN_ANOM_filled.gif" caption="" width="100%" %}
 
-
+# precip
+--------
 <!---Snow--->
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
@@ -39,6 +43,8 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
 
+# tropical
+--------
 <!---Tropical--->
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png" caption="" width="100%" %}
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_5d0.png" caption="" width="100%" %}
@@ -46,6 +52,8 @@ nav: weather
 {% include figure.html img="https://www.ospo.noaa.gov/data/sst/contour/usatlant.fc.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.nhc.noaa.gov/tafb/atl_anom.gif" caption="" width="100%" %}
 
+# wave
+--------
 <!---Wave--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/WaveHeight1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
