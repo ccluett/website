@@ -5,6 +5,7 @@ nav: weather
 
 <!---Radar--->
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
+[Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 [Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
