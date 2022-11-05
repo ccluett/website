@@ -1,5 +1,4 @@
 ---
-title: false
 nav: weather
 ---
 [forecast](#forecast) / 
