@@ -6,26 +6,25 @@ nav: weather
 <!---Radar--->
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
-[Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
+<center> [Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) </center>
 
 {% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
 
 
 <!---Forecast--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
-[Loop](https://www.wpc.ncep.noaa.gov/basicwx/bwxloop_ndfd.html)
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif" caption="1 Day Forecast" width="100%" %}
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd.gif" caption="2-1/2 Day Forecast" width="100%" %}
+<center> [Loop](https://www.wpc.ncep.noaa.gov/basicwx/bwxloop_ndfd.html) </center>
 
-https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif
-https://www.wpc.ncep.noaa.gov/basicwx/99fndfd.gif
+
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
 
-
-
 <!---Rain--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="2-1/2 Day Forecast" width="100%" %}
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
 
 
 
