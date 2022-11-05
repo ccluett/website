@@ -27,7 +27,7 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
 
-# temp
+# temperature
 --------
 <!---Temperature--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" caption="" width="100%" %}
@@ -36,7 +36,7 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MAX_ANOM_filled.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MIN_ANOM_filled.gif" caption="" width="100%" %}
 
-# precip
+# snow & rain
 --------
 <!---Snow--->
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
