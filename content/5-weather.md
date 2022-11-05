@@ -9,8 +9,10 @@ nav: weather
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 [Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
-
 {% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
+
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namussfcwbg.gif" caption="" width="100%" %}
+
 
 # forecast
 --------
