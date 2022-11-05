@@ -2,6 +2,11 @@
 title: weather
 nav: weather
 ---
+[forecast](#forecast)
+[temperature](#temperature)
+[snow & rain](#snow & rain)
+[tropical](#tropical)
+[ocean](#ocean)
 
 <!---Radar--->
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
