@@ -2,10 +2,10 @@
 title: weather
 nav: weather
 ---
-[forecast](#forecast)
-[temperature](#temperature)
-[snow & rain](#snow--rain)
-[tropical](#tropical)
+[forecast](#forecast) / 
+[temperature](#temperature) / 
+[snow & rain](#snow--rain) / 
+[tropical](#tropical) / 
 [ocean](#ocean)
 
 <!---Radar--->
