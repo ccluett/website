@@ -28,6 +28,7 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
 
 <!---Temnperature--->
+{% include figure.html img="" caption="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MinT1_conus.png" caption="" width="100%" %}
 
@@ -43,6 +44,7 @@ nav: weather
 {% include figure.html img="https://www.nhc.noaa.gov/tafb/atl_anom.gif" caption="Sea Surface Temperature Anamoly" width="100%" %}
 
 <!---Wave--->
+{% include figure.html img="https://graphical.weather.gov/images/northeast/WaveHeight1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
 
 
