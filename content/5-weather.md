@@ -4,7 +4,7 @@ nav: weather
 ---
 
 
-{% include figure.html img="" caption="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" width="100%" %}
+{% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 
