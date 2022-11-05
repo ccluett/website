@@ -49,17 +49,15 @@ nav: weather
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png" caption="" width="100%" %}
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_5d0.png" caption="" width="100%" %}
 
+# ocean
+--------
+
 {% include figure.html img="https://www.ospo.noaa.gov/data/sst/contour/usatlant.fc.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.nhc.noaa.gov/tafb/atl_anom.gif" caption="" width="100%" %}
 
-# wave
---------
 <!---Wave--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/WaveHeight1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
-
-
-
 
 
 <!---
