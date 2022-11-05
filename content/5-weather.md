@@ -1,5 +1,5 @@
 ---
-title: weather
+title: 
 nav: weather
 ---
 [forecast](#forecast) / 
@@ -7,6 +7,9 @@ nav: weather
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
 [ocean](#ocean)
+
+# current
+--------
 
 <!---Radar--->
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
