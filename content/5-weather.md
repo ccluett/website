@@ -39,6 +39,7 @@ nav: weather
 # precip
 --------
 <!---Snow--->
+{% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 
