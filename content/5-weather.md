@@ -42,6 +42,9 @@ nav: weather
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 
+{% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
+
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day1_psnow_gt_04_conus.gif" caption="" width="100%" %}
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day2_psnow_gt_04_conus.gif" caption="" width="100%" %}
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day3_psnow_gt_04_conus.gif" caption="" width="100%" %}
