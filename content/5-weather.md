@@ -3,20 +3,26 @@ title: weather
 nav: weather
 ---
 
+<iframe width="650" height="450"
+        src="https://embed.windy.com/embed2.html?lat=42.280&lon=-71.128&detailLat=42.280&detailLon=-71.128&width=650&height=450&zoom=5&level=surface&overlay=temp&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
+        frameborder="0"></iframe>
 
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
-https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined
+
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
 
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd_init_2022110500.gif" caption="2-1/2 Day Forecase" width="100%" %}
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd_init_2022110500.gif" caption="2-1/2 Day Forecast" width="100%" %}
 
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/lowtracks/lowtrack_ensembles.gif" caption="" width="100%" %}
 
-{% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
+
+{% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
+
+
 
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
-
+{% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 
 
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png" caption="" width="100%" %}
@@ -27,7 +33,6 @@ https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-10
 
 
 
-{% include figure.html img="" caption="" width="100%" %}
 
 {% include figure.html img="" caption="" width="100%" %}
 
