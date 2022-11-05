@@ -5,7 +5,7 @@ nav: weather
 [temperature](#temperature) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
-[ocean](#ocean) /
+[ocean](#ocean) / external: 
 [marine](https://marine.weather.gov/MapClick.php?zoneid=ANZ234&TextType=1) / 
 [surf](https://hopewaves.app/)
 
