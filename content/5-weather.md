@@ -51,6 +51,10 @@ nav: weather
 
 
 
+<!---
+
 <center><iframe width="700" height="400"
         src="https://embed.windy.com/embed2.html?lat=42.280&lon=-71.128&detailLat=42.280&detailLon=-71.128&width=650&height=450&zoom=5&level=surface&overlay=temp&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
         frameborder="0"></iframe> </center>
+
+--->
