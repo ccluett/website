@@ -4,7 +4,7 @@ nav: weather
 ---
 [forecast](#forecast)
 [temperature](#temperature)
-[snow & rain](#snow & rain)
+[snow & rain](#snow--rain)
 [tropical](#tropical)
 [ocean](#ocean)
 
