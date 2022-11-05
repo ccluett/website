@@ -17,7 +17,7 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif" caption="1 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd.gif" caption="2-1/2 Day Forecast" width="100%" %}
-[Loop](https://www.wpc.ncep.noaa.gov/basicwx/bwxloop_ndfd.html)
+{% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
