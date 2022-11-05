@@ -27,7 +27,9 @@ nav: weather
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
 
-
+<!---Temnperature--->
+{% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
+{% include figure.html img="https://graphical.weather.gov/images/conus/MinT1_conus.png" caption="" width="100%" %}
 
 <!---Snow--->
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
@@ -37,8 +39,15 @@ nav: weather
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png" caption="" width="100%" %}
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_5d0.png" caption="" width="100%" %}
 
+{% include figure.html img="https://www.ospo.noaa.gov/data/sst/contour/usatlant.fc.gif" caption="Sea Surface Temperature" width="100%" %}
+{% include figure.html img="https://www.nhc.noaa.gov/tafb/atl_anom.gif" caption="Sea Surface Temperature Anamoly" width="100%" %}
+
 <!---Wave--->
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
+
+
+
+
 
 <center><iframe width="700" height="400"
         src="https://embed.windy.com/embed2.html?lat=42.280&lon=-71.128&detailLat=42.280&detailLon=-71.128&width=650&height=450&zoom=5&level=surface&overlay=temp&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1"
