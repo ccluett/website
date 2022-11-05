@@ -27,7 +27,7 @@ nav: weather
 {% include figure.html img="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MinT1_conus.png" caption="" width="100%" %}
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/95Bwbg.gif" caption="" width="100%" %}
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/95Awbg.gif" caption="" width="100%" %}
 
 
 <!---Snow--->
