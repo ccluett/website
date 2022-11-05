@@ -17,7 +17,7 @@ nav: weather
 # forecast
 --------
 <!---Forecast--->
-{% include figure.html img="http://wx.somassbu.org/products/liwrf/front_page_loop.gif" caption="1/2 Day Forecast" width="100%" %}
+{% include figure.html img="http://wx.somassbu.org/products/liwrf/front_page_loop.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/96fndfd.gif" caption="1 Day Forecast" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/99fndfd.gif" caption="2-1/2 Day Forecast" width="100%" %}
