@@ -21,6 +21,8 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
+
 <!---Temperature--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
