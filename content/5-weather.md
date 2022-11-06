@@ -64,7 +64,7 @@ nav: weather
 <!---Rain--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
-{% include figure.html img="" caption="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814prcp.new.gif" width="100%" %}
+{% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814prcp.new.gif" caption="" width="100%" %}
 
 # tropical
 --------
