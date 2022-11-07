@@ -5,9 +5,10 @@ nav: weather
 [temperature](#temperature) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
-[ocean](#ocean) / external: 
+[ocean](#ocean) // external: 
 [marine](https://marine.weather.gov/MapClick.php?zoneid=ANZ234&TextType=1) / 
-[surf](https://hopewaves.app/)
+[surf](https://hopewaves.app/) / 
+[ski](https://madriverglenweather.blogspot.com/)
 
 # current
 --------
