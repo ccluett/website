@@ -43,9 +43,9 @@ nav: weather
 {% include figure.html img="https://graphical.weather.gov/images/northeast/MaxT1_northeast.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MaxT1_conus.png" caption="" width="100%" %}
 {% include figure.html img="https://graphical.weather.gov/images/conus/MinT1_conus.png" caption="" width="100%" %}
-{% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814temp.new.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MAX_ANOM_filled.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MIN_ANOM_filled.gif" caption="" width="100%" %}
+{% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814temp.new.gif" caption="" width="100%" %}
 
 # snow & rain
 --------
@@ -54,8 +54,8 @@ nav: weather
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 
-{% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day1_psnow_gt_04_conus.gif" caption="" width="100%" %}
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day2_psnow_gt_04_conus.gif" caption="" width="100%" %}
