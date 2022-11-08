@@ -57,6 +57,8 @@ nav: weather
 
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.nohrsc.noaa.gov/interactive/html/map_only.php?var=ssm_depth&min_x=-125.0&min_y=24.0&max_x=-67.0&max_y=53.0&bgvar=dem&shdvar=shading&title=1&width=800&height=600&font=0&lbl=m&palette=0&h_o=0&metric=0&snap=1&o9=1&o12=0&o13=0" caption="" width="100%" %}
+
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day1_psnow_gt_04_conus.gif" caption="" width="100%" %}
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day2_psnow_gt_04_conus.gif" caption="" width="100%" %}
