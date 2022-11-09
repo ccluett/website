@@ -10,7 +10,7 @@ nav: weather
 [surf](https://hopewaves.app/) / 
 [ski](https://madriverglenweather.blogspot.com/)
 
-# current
+# current conditions
 --------
 
 <!---Radar--->
