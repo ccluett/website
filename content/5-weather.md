@@ -85,6 +85,7 @@ nav: weather
 
 <!---Wave--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/WaveHeight1_northeast.png" caption="" width="100%" %}
+{% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/06/gfs-wave_ne-coast_000_sig_wv_ht.gif" caption="" width="100%" %}
 {% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/06/gfs-wave_atlantic_000_sig_wv_ht.gif" caption="" width="100%" %}
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
 
