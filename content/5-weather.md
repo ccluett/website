@@ -46,6 +46,7 @@ nav: weather
 {% include figure.html img="https://graphical.weather.gov/images/conus/MinT1_conus.png" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MAX_ANOM_filled.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/DAY3-7_MIN_ANOM_filled.gif" caption="" width="100%" %}
+{% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/610day/610temp.new.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814temp.new.gif" caption="" width="100%" %}
 
 # snow & rain
@@ -67,6 +68,7 @@ nav: weather
 <!---Rain--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/p120i.gif" caption="" width="100%" %}
+{% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/610day/610prcp.new.gif" caption="" width="100%" %}
 {% include figure.html img="https://www.cpc.ncep.noaa.gov/products/predictions/814day/814prcp.new.gif" caption="" width="100%" %}
 
 # tropical
