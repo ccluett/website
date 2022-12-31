@@ -1,6 +1,6 @@
 ---
 title: vessels
-nav: vessels
+nav: false
 ---
 
 ## US National Park Service *Annie Moore* 
