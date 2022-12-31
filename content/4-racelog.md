@@ -1,6 +1,6 @@
 ---
 title: race log
-nav: race log
+nav: false
 ---
 
 |    date    	|               race              	|     location     	| distance 	|   time  	|
