@@ -36,7 +36,7 @@ nav: weather
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
+[![Foo](https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png)](https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png)
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
