@@ -49,26 +49,21 @@ nav: weather
 
 [Euro 5 Day Forecast](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8)
 
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
+
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
-{% include figure.html img="https://www.weather.gov/images/box/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
-
-
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
-{% include figure.html img="https://www.weather.gov/images/btv/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
-
 {% include figure.html img="https://www.weather.gov/images/gyx/winter/StormTotalSnow.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/aly/winter/StormTotalSnow.jpg" caption="" width="100%" %}
+
+{% include figure.html img="https://www.weather.gov/images/box/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/btv/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
+
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.nohrsc.noaa.gov/interactive/html/map_only.php?var=ssm_depth&min_x=-125.0&min_y=24.0&max_x=-67.0&max_y=53.0&bgvar=dem&shdvar=shading&title=1&width=800&height=600&font=0&lbl=m&palette=0&h_o=0&metric=0&snap=1&o9=1&o12=0&o13=0" caption="current snow depth" width="100%" %}
-
-
-{% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day1_psnow_gt_04_conus.gif" caption="" width="100%" %}
-{% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day2_psnow_gt_04_conus.gif" caption="" width="100%" %}
-{% include figure.html img="https://origin.wpc.ncep.noaa.gov/wwd/day3_psnow_gt_04_conus.gif" caption="" width="100%" %}
 
 <!---Rain--->
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/qpf/fill_94qwbg.gif" caption="" width="100%" %}
