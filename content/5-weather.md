@@ -24,7 +24,7 @@ nav: weather
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="woods hole" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namussfcwbg.gif" caption="" width="100%" %}
-
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namnesfcwbg.gif" caption="" width="100%" %}
 
 
 # forecast
