@@ -47,7 +47,7 @@ nav: weather
 # snow & rain
 --------
 <!---Snow--->
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
