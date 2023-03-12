@@ -35,8 +35,10 @@ nav: weather
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
+Euro Forecast
 <iframe width="800" height="800" src="https://embed.windy.com/embed2.html?lat=40.112&lon=-73.367&detailLat=41.607&detailLon=-70.620&width=800&height=800&zoom=6&level=surface&overlay=snowAccu&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=true&type=map&location=coordinates&detail=true&metricWind=default&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
 
+GFS Forecast
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
