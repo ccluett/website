@@ -4,7 +4,7 @@ nav: weather
 [forecast](#forecast) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
-[ocean](#ocean) 
+[ocean](#ocean) /
 [temperature](#temperature) // external: 
 [marine](https://marine.weather.gov/MapClick.php?zoneid=ANZ234&TextType=1) / 
 [surf](https://hopewaves.app/) / 
@@ -16,7 +16,7 @@ nav: weather
 <!---Radar--->
 
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
-[Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
+[Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
