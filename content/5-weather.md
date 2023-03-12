@@ -37,6 +37,8 @@ nav: weather
 
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
 
+<iframe width="800" height="800" src="https://on.windy.com/7paar" frameborder="0"></iframe>
+
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
