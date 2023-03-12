@@ -2,10 +2,10 @@
 nav: weather
 ---
 [forecast](#forecast) / 
-[temperature](#temperature) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
-[ocean](#ocean) // external: 
+[ocean](#ocean) 
+[temperature](#temperature) // external: 
 [marine](https://marine.weather.gov/MapClick.php?zoneid=ANZ234&TextType=1) / 
 [surf](https://hopewaves.app/) / 
 [ski](https://madriverglenweather.blogspot.com/)
@@ -15,18 +15,12 @@ nav: weather
 
 <!---Radar--->
 
-
-{% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="[Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)" width="200%" %}
-
-{% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="100%" %}
+{% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
+[Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
 
-{% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
-
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="woods hole" width="100%" %}
-
-{% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/06/gfs-wave_ne-coast_000_sig_wv_ht.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namussfcwbg.gif" caption="" width="100%" %}
 
@@ -34,6 +28,7 @@ nav: weather
 --------
 <!---Forecast--->
 
+{% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
@@ -41,14 +36,14 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
 
-
-
 # snow & rain
 --------
 <!---Snow--->
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/gyx/winter/StormTotalSnow.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/aly/winter/StormTotalSnow.jpg" caption="" width="100%" %}
 
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
@@ -76,7 +71,7 @@ nav: weather
 
 <!---Wave--->
 {% include figure.html img="https://graphical.weather.gov/images/northeast/WaveHeight1_northeast.png" caption="" width="100%" %}
-
+{% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/06/gfs-wave_ne-coast_000_sig_wv_ht.gif" caption="" width="100%" %}
 {% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/06/gfs-wave_atlantic_000_sig_wv_ht.gif" caption="" width="100%" %}
 {% include figure.html img="https://mag.ncep.noaa.gov/data/gfs-wave/18/gfs-wave_atl-pac_000_sig_wv_ht.gif" caption="" width="100%" %}
 {% include figure.html img="https://ocean.weather.gov/shtml/ira1.gif" caption="" width="100%" %}
@@ -101,6 +96,10 @@ nav: weather
 US RADAR:
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/continental/conus/current/conus.radar.current.gif" caption="" width="100%" %}
 [Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
+
+
+{% include figure.html img="https://cdn.star.nesdis.noaa.gov/GOES16/ABI/SECTOR/eus/13/1000x1000.jpg" caption="" width="100%" %}
+
 
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/basicwx/93fndfd.gif" caption="1/2 Day Forecast" width="100%" %}
