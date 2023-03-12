@@ -20,11 +20,14 @@ nav: weather
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
 
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/html/radar_mosaic.html" caption="" width="100%" %}
+
+<iframe width="800" height="800" src="https://embed.windy.com/embed2.html?lat=42.828&lon=-73.202&detailLat=41.607&detailLon=-70.620&width=800&height=800&zoom=7&level=surface&overlay=temp&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
+
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
+
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="woods hole" width="100%" %}
 
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namussfcwbg.gif" caption="" width="100%" %}
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namnesfcwbg.gif" caption="" width="100%" %}
+
 
 
 # forecast
@@ -35,10 +38,6 @@ nav: weather
 
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
-Euro Forecast
-<iframe width="800" height="800" src="https://embed.windy.com/embed2.html?lat=40.112&lon=-73.367&detailLat=41.607&detailLon=-70.620&width=800&height=800&zoom=6&level=surface&overlay=snowAccu&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=true&type=map&location=coordinates&detail=true&metricWind=default&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
-
-GFS Forecast
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
