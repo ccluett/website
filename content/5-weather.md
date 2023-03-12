@@ -37,7 +37,7 @@ nav: weather
 
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
 
-<iframe width="800" height="800" src="https://on.windy.com/7paar" frameborder="0"></iframe>
+<iframe width="800" height="800" src="https://embed.windy.com/embed2.html?lat=42.654&lon=-71.862&detailLat=42.654&detailLon=-71.862&width=800&height=800&zoom=8&level=surface&overlay=snowAccu&product=ecmwf&menu=&message=&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=default&radarRange=-1" frameborder="0"></iframe>
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
