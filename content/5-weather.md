@@ -42,7 +42,7 @@ nav: weather
 # snow & rain
 --------
 
-[Windy Euro 5 Day Model](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8)
+[Windy Euro 5 Day Model](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8) / 
 [Pivotal Weather Euro Model](https://www.pivotalweather.com/model.php?m=ecmwf_full&p=sn10_acc-imp)
 
 {% include figure.html img="https://x-hv1.pivotalweather.com/maps/ndfd/latest/ndfd_48hsnow.us_ne.png" caption="" width="100%" %}
