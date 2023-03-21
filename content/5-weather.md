@@ -60,9 +60,13 @@ nav: weather
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
 
 
+{% include figure.html img="https://www.weather.gov/images/nerfc/ops/NOHRSC_snowfall.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.nohrsc.noaa.gov/interactive/html/map_only.php?var=ssm_depth&min_x=-125.0&min_y=24.0&max_x=-67.0&max_y=53.0&bgvar=dem&shdvar=shading&title=1&width=800&height=600&font=0&lbl=m&palette=0&h_o=0&metric=0&snap=1&o9=1&o12=0&o13=0" caption="current snow depth" width="100%" %}
+
+
+
 
 <!---Rain--->
 {% include figure.html img="https://x-hv1.pivotalweather.com/maps/ndfd/latest/ndfd_48hqpf.us_ne.png" caption="" width="100%" %}
