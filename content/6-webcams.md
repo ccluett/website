@@ -1,6 +1,6 @@
 ---
 title: webcams
-nav: webcams
+nav: true
 ---
 
 ## ski
