@@ -25,9 +25,7 @@ nav: true
 
 ## surf
 --------
-{% include figure.html img="https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8" caption="" width="100%" %}
-
-[https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8](https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8)
+[Narragansett RI](https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8)
 
 {% include figure.html img="" caption="" width="100%" %}
 
