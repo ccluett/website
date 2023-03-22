@@ -2,7 +2,7 @@
 nav: weather
 ---
 [forecast](#forecast) / 
-[snow models](#snow--models) / 
+[snow models](#snow-models) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
 [ocean](#ocean) /
