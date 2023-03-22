@@ -46,7 +46,8 @@ nav: weather
 
 [Windy Euro 5 Day Model](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8) / 
 [CONUS Euro Model](https://www.pivotalweather.com/model.php?m=ecmwf_full&p=sn10_acc-imp) / 
-[Northeast GFS Model](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=neus&pkg=asnow)
+[Northeast GFS Model](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=neus&pkg=asnow) / 
+[NAM 3k Model](https://www.tropicaltidbits.com/analysis/models/?model=nam3km&region=neus&pkg=asnow)
 
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
