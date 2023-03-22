@@ -2,8 +2,8 @@
 nav: weather
 ---
 [forecast](#forecast) / 
-[snow models](#snow-models) / 
-[snow forecast](#snow-forecast) / 
+[models](#models) / 
+[snow](#snow) / 
 [rain](#rain) / 
 [tropical](#tropical) / 
 [ocean](#ocean) /
@@ -41,7 +41,7 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
 
-# snow models
+# models
 --------
 
 [Windy Euro 5 Day Model](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8) / 
@@ -51,7 +51,7 @@ nav: weather
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
 
-# snow forecast
+# snow
 --------
 
 {% include figure.html img="https://x-hv1.pivotalweather.com/maps/ndfd/latest/ndfd_48hsnow.us_ne.png" caption="" width="100%" %}
