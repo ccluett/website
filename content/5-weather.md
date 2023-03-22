@@ -2,6 +2,7 @@
 nav: weather
 ---
 [forecast](#forecast) / 
+[snow models](#snow--models) / 
 [snow & rain](#snow--rain) / 
 [tropical](#tropical) / 
 [ocean](#ocean) /
@@ -39,11 +40,18 @@ nav: weather
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
 
-# snow & rain
+# snow models
 --------
 
 [Windy Euro 5 Day Model](https://www.windy.com/-New-snow-snowAccu?snowAccu,next5d,42.985,-72.274,8) / 
-[Pivotal Weather Euro Model](https://www.pivotalweather.com/model.php?m=ecmwf_full&p=sn10_acc-imp)
+[CONUS Euro Model](https://www.pivotalweather.com/model.php?m=ecmwf_full&p=sn10_acc-imp) / 
+[Northeast GFS Model](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=neus&pkg=asnow)
+
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
+
+# snow & rain
+--------
 
 {% include figure.html img="https://x-hv1.pivotalweather.com/maps/ndfd/latest/ndfd_48hsnow.us_ne.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
@@ -55,10 +63,6 @@ nav: weather
 
 {% include figure.html img="https://www.weather.gov/images/box/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
-
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
-
 
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/NOHRSC_snowfall.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
