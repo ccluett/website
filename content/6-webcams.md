@@ -25,11 +25,9 @@ nav: true
 
 ## surf
 --------
-{% include figure.html img="" caption="" width="100%" %}
+{% include figure.html img="https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8" caption="" width="100%" %}
 
-<iframe width="560" height="315" src="https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8" </iframe>
-
-
+[https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8](https://5c864aa99ee04.streamlock.net/surfcam/live.stream/playlist.m3u8)
 
 {% include figure.html img="" caption="" width="100%" %}
 
