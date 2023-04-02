@@ -21,8 +21,6 @@ nav: weather
 
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
 
-<iframe width="700" height="700" src="https://embed.windy.com/embed2.html?lat=42.828&lon=-73.202&detailLat=41.607&detailLon=-70.620&width=800&height=800&zoom=7&level=surface&overlay=temp&product=ecmwf&menu=&message=true&marker=&calendar=now&pressure=&type=map&location=coordinates&detail=&metricWind=default&metricTemp=%C2%B0F&radarRange=-1" frameborder="0"></iframe>
-
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namnesfcwbg.gif" caption="" width="100%" %}
