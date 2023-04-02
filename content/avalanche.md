@@ -11,6 +11,8 @@ nav: avalanche forecast
 * [mt washington observatory summit conditions](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
 * [nws mt washington conditions](https://forecast.weather.gov/MapClick.php?lat=44.27049000000005&lon=-71.30345999999997)
 * [higher summits forecast](https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx)
+* [mt washington avalanche accidents](https://www.mountwashingtonavalanchecenter.org/incidents/)
+* [national avalanche accidents](https://avalanche.org/avalanche-accidents/)
 
 webcams  
 * [mt washington from wildcat](https://www.youtube.com/watch?v=p24ghWgdpew)
