@@ -19,7 +19,8 @@ nav: avalanche forecast
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.2705&lon=-71.3035&wfo=GYX&zcode=NHZ002&gset=20&gdiff=6&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="mt washington (elev. 5650ft)" width="100%" %}
 
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
-[Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined)
+[Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
+[NEXRAD Dual-Pol Loop](https://weather.cod.edu/satrad/nexrad/?parms=GYX-N0B-1-24-50-usa-rad)
 
 {% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
 
