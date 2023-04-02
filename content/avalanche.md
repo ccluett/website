@@ -4,10 +4,10 @@ nav: avalanche forecast
 
 {% include figure.html img="tucks.jpg" caption="" width="50%" %}
 
-[forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)\ 
-[observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)\
+[avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)\ 
+[avalanche observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)\
 [summit conditions](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)\ 
-[higher summit forecast](https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx)\ 
+[nws mt washington](https://forecast.weather.gov/MapClick.php?lat=44.27049000000005&lon=-71.30345999999997)\ 
 [higher summit forecast](https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx)\ 
 [mt washington webcam](https://www.youtube.com/watch?v=p24ghWgdpew)\
 [observatory tower webcam](https://www.youtube.com/watch?v=5qVHjf7hKZU)\
