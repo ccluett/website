@@ -2,7 +2,7 @@
 nav: avalanche forecast
 ---
 
-{% include figure.html img="tucks.jpeg" caption="" width="100%" %} \
+{% include figure.html img="tucks.jpg" caption="" width="100%" %}\
 
 [forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range) \ 
 [observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view) / 
