@@ -13,7 +13,7 @@ nav: avalanche forecast
 * [higher summits forecast](https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx)
 
 webcams  
-* [mt washington webcam](https://www.youtube.com/watch?v=p24ghWgdpew)
+* [mt washington from wildcat](https://www.youtube.com/watch?v=p24ghWgdpew)
 * [observatory tower webcam](https://www.youtube.com/watch?v=5qVHjf7hKZU)
 * [observatory deck webcam](https://www.youtube.com/watch?v=RUN2G9r136c)  
 
