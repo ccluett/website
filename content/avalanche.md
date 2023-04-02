@@ -2,6 +2,8 @@
 nav: avalanche forecast
 ---
 
+{% include figure.html img="tucks.jpg" caption="" width="50%" %}
+
 * [avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)
 * [avalanche observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)
 * [mt washington observatory summit conditions](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
@@ -11,7 +13,7 @@ nav: avalanche forecast
 * [observatory tower webcam](https://www.youtube.com/watch?v=5qVHjf7hKZU)
 * [observatory deck webcam](https://www.youtube.com/watch?v=RUN2G9r136c)
 
-{% include figure.html img="tucks.jpg" caption="" width="50%" %}
+
 
 # forecast
 --------
