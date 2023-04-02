@@ -1,8 +1,8 @@
 ---
-title: avalanche forecast and observations for mt washington
+title: mt washington avy forecast
 nav: avalanche forecast
 ---
-{% include figure.html img="tucks.jpg" caption="" width="50%" %}
+{% include figure.html img="tucks.jpg" caption="" width="100%" %}
 
 # resources
 --------
