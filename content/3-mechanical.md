@@ -1,30 +1,18 @@
 ---
 title: mechanical
-nav: false
+nav: true
 ---
 
-I design, analyze, build, and test machined, welded, composite, cast, and 3D printed parts. All these means of manufacturing have their place depending on application. 
+I design, analyze, build, and test vehicles, vessels and complex hydro-mechanical systems. I design machined, welded, composite, cast, and 3D printed components. All these means of manufacturing have their place depending on application. 
 
-I help continue the development of the REMUS line of underwater vehicles, as well as design and develop various other oceanographic and subsea systems and hardware.
+I use both first-principles and finite element analyses to design hardware, including large deformation non-linear, modal and thermal FEA.
 
-My driving principles are simplicity and elegance in design, and the importance of designing with top system level understanding and overall design intent.
-
-{% include figure.html img="r600.JPG" width="100%" %}
-
-{% include figure.html img="fabs1.JPG" width="100%" %}
-
-{% include figure.html img="fab2.JPG" width="100%" %}
-
+My driving principles are simplicity and elegance in design. I believe in the importance of designing with top system level understanding and overall design intent.
 
 --------
 
-## structural design
-
-I use both finite element and first-principles based analysis to structurally design subsea components and hardware, including large deformation nonlinear collapse  of pressure vessels and boundaries.
+{% include figure.html img="fab2.JPG" width="100%" %}
 
 {% include figure.html img="tank.JPG" width="100%" %}
 
 {% include figure.html img="hull-fea.JPG" width="100%" %}
-
-{% include figure.html img="PT_hull.jpg" width="100%" %}
-
