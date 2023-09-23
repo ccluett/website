@@ -11,6 +11,8 @@ Reynolds Averaged Navier Stokes (RANS) CFD is a time averaged approch to simulat
 
 {% include figure.html img="r3k-cfd.JPG" width="100%" %}
 
+{% include figure.html img="r100-cfd.JPG" width="100%" %}
+
 {% include figure.html img="prop-cfd.JPG" width="100%" %}
 
 {% include figure.html img="slocum-glider.JPG" width="100%" %}
