@@ -1,6 +1,6 @@
 ---
 title: hydro
-nav: true
+nav: false
 ---
 
 Reynolds Averaged Navier Stokes (RANS) CFD is a time averaged approch to simulate a flow field. I use commercial RANS CFD codes, such as Numeca Fine/Marine and Ansys Fluent to solve applied aerodynamic and hydrodynamic problems, such as performance and powering prediction of UUVs and surface vessels, control surface modeling, and wind turbine analysis.
