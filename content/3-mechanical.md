@@ -1,6 +1,6 @@
 ---
 title: mechanical
-nav: true
+nav: false
 ---
 
 I design, analyze, build, and test vehicles, vessels and complex hydro-mechanical systems. I design machined, welded, composite, cast, and 3D printed components. All these means of manufacturing have their place depending on application. 
