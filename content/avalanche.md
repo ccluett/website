@@ -9,9 +9,9 @@ nav: avalanche
 forecast and conditions
 * [backcountry avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)
 * [field observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)
-* [mt washington observatory summit conditions](https://www.mountwashington.org/experience-the-weather/current-summit-conditions.aspx)
+* [mt washington observatory summit conditions](https://mountwashington.org/weather/current-summit-conditions/)
 * [nws mt washington forecast](https://forecast.weather.gov/MapClick.php?lat=44.27049000000005&lon=-71.30345999999997)
-* [higher summits forecast](https://www.mountwashington.org/experience-the-weather/higher-summit-forecast.aspx)
+* [higher summits forecast](https://mountwashington.org/weather/higher-summits-forecast/)
 
 webcams  
 * [mt washington from wildcat](https://www.youtube.com/watch?v=p24ghWgdpew)
