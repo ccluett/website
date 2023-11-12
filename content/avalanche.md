@@ -1,6 +1,6 @@
 ---
 title: mt washington avy forecast
-nav: avalanche
+nav: false
 ---
 {% include figure.html img="tucks.jpg" caption="" width="100%" %}
 
