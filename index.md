@@ -24,4 +24,4 @@ I enjoy the creative process of design - naval architecture offers the ability t
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
 
 ---------
-<p style="text-align: center;">Copyright © 2022 Christopher Cluett. All Rights Reserved.</p>
+<p style="text-align: center;">Copyright © 2024 Christopher Cluett. All Rights Reserved.</p>
