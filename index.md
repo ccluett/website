@@ -21,7 +21,7 @@ I enjoy the creative process of design and fabrication - naval architecture offe
 * 6DOF dynamic modeling of UUVs
 * Tow tank testing and data acquisition
 
-{% include figure.html img="Propeller-streamlines-2.JPG" width="100%" %}
+{% include figure.html img="boat-render-4.jpg" width="100%" %}
 
 ---------
 <p style="text-align: center;">Copyright © 2022 Christopher Cluett. All Rights Reserved.</p>
