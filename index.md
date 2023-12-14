@@ -8,7 +8,7 @@ I'm a naval architect and mechanical engineer at Woods Hole Oceanographic Instit
 
 I enjoy the creative process of design - naval architecture offers the ability to blend scientific principles and aesthetic elements into elegant designs.
 
-{% include figure.html img="4knots,100rpm_1.JPG" width="100%" %}
+{% include figure.html img="boat-render-4.jpg" width="100%" %}
 
 ## expertise
 * Surface vessel and subsea vehicle design, analysis, and testing
@@ -21,7 +21,7 @@ I enjoy the creative process of design - naval architecture offers the ability t
 * 6DOF dynamic modeling of UUVs
 * Tow tank testing and data acquisition
 
-{% include figure.html img="boat-render-4.jpg" width="100%" %}
+{% include figure.html img="4knots,100rpm_1.JPG" width="100%" %}
 
 ---------
 <p style="text-align: center;">Copyright © 2024 Christopher Cluett. All Rights Reserved.</p>
