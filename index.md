@@ -13,7 +13,7 @@ I conduct applied engineering, research, and hardware development using strong t
 {% include figure.html img="ULRAUV-render-1.jpg" width="100%" %}
 
 ---------
-<sup>  <p style="text-align: center;">Copyright © 2024 Christopher Cluett. All Rights Reserved. All images, graphics, and content displayed on this website are the exclusive intellectual property of Christophe rCluett and are protected by the copyright laws of the United States (Title 17, U.S. Code) and international treaties. The Owner retains all rights not expressly granted herein.</p> </sup>
+<p style="text-align: center;"> <sup>  Copyright © 2024 Christopher Cluett. All Rights Reserved. </sup> </p> 
 
 
 <!---
