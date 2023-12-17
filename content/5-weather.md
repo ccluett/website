@@ -20,25 +20,27 @@ nav: weather
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [NEXRAD Dual-Pol Loop](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad)
 
+<!---
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namnesfcwbg.gif" caption="" width="100%" %}
-
+--->
+Woods Hole
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="woods hole" width="100%" %}
 
+Smuggs
+{% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.555&lon=-72.8042&wfo=BTV&zcode=VTZ006&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
+Mt Washington
+{% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.2705&lon=-71.3035&wfo=GYX&zcode=NHZ002&gset=20&gdiff=6&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
-# forecast
---------
-
-{% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
-{% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
-
+<!---
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/medr/5dayfcst_wbg_conus.gif" caption="" width="100%" %}
+--->
 
 # models
 --------
@@ -48,8 +50,11 @@ nav: weather
 [Northeast GFS](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=neus&pkg=asnow) / 
 [NAM 3k Model](https://www.tropicaltidbits.com/analysis/models/?model=nam3km&region=neus&pkg=asnow)
 
+{% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
+
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
 {% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
+{% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
 # snow
 --------
@@ -69,6 +74,8 @@ nav: weather
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sd1_today.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.nohrsc.noaa.gov/interactive/html/map_only.php?var=ssm_depth&min_x=-125.0&min_y=24.0&max_x=-67.0&max_y=53.0&bgvar=dem&shdvar=shading&title=1&width=800&height=600&font=0&lbl=m&palette=0&h_o=0&metric=0&snap=1&o9=1&o12=0&o13=0" caption="current snow depth" width="100%" %}
+
+
 
 
 # rain
