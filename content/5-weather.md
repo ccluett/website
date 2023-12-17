@@ -15,10 +15,10 @@ nav: weather
 # current conditions
 --------
 
-{% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 [Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [NEXRAD Dual-Pol Loop](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad)
+{% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 
 <!---
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
