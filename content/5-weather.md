@@ -20,14 +20,12 @@ nav: weather
 [NEXRAD Dual-Pol Loop](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad)
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/subregional/New_England/current/New_England.radar.current.gif" caption="" width="200%" %}
 
-{% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
 
 <!---
 {% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
 
 {% include figure.html img="https://www.spc.noaa.gov/products/activity_loop.gif" caption="" width="100%" %}
-
-{% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
 
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/namnesfcwbg.gif" caption="" width="100%" %}
 --->
@@ -43,6 +41,8 @@ Smuggs
 
 Mt Washington
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.2705&lon=-71.3035&wfo=GYX&zcode=NHZ002&gset=20&gdiff=6&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
+
+{% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
 <!---
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/wwd/lowtrack_circles.gif" caption="" width="100%" %}
