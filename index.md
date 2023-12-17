@@ -3,7 +3,6 @@ title: Home
 layout: default
 ---
 
-## intro
 I'm a naval architect and mechanical engineer at the Woods Hole Oceanographic Institution, focused on applied maritime research and technology development. I aim to design, develop, and demonstrate innovative technologies related to hydrodynamics, propulsion, structures, and hydro-mechanical systems for autonomous underwater vehicles and surface vessels. 
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
