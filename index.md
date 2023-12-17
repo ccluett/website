@@ -8,7 +8,7 @@ I'm a naval architect and mechanical engineer at the Woods Hole Oceanographic In
 
 {% include figure.html img="boat-render-4.jpg" width="100%" %}
 
-I conduct applied engineering, research, and hardware development, using a strong theoretical and computational capabilities in fluid dynamics, dynamic modeling, and nonlinear finite element analysis, aided by at-sea operations and real-world feedback. 
+I conduct applied engineering, research, and hardware development using strong theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis, informed by at-sea operations and real-world feedback. 
 
 {% include figure.html img="ULRAUV-render-1.jpg" width="100%" %}
 
