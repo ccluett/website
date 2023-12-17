@@ -1,7 +1,6 @@
 ---
 nav: weather
 ---
-[forecast](#forecast) / 
 [models](#models) / 
 [snow](#snow) / 
 [rain](#rain) / 
