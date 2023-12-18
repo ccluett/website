@@ -1,5 +1,5 @@
 ---
-title: avy forecast
+title: avalanche
 nav: true
 ---
 
