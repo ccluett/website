@@ -74,6 +74,7 @@ Mt Washington
 
 {% include figure.html img="https://www.weather.gov/images/box/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/btv/winter/WinterPrecipOnset.jpg" caption="" width="100%" %}
+{% include figure.html img="https://www.weather.gov/images/btv/winter/WinterPrecipEndTiming.jpg" caption="" width="100%" %}
 
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/NOHRSC_snowfall.png" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/nerfc/ops/sf1_today.jpg" caption="" width="100%" %}
