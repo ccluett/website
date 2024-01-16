@@ -9,7 +9,7 @@ I'm a senior naval architect and mechanical engineer at  Woods Hole Oceanographi
 
 I apply strong theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is driven by real-world applications and constant feedback from at-sea system performance.
 
-{% include figure.html img="render-9-shark.jpg" width="100%" %}
+{% include figure.html img="render-11-shark.jpg" width="100%" %}
 
 ---------
 <p style="text-align: center;"> <sup>  Copyright © 2024 Christopher Cluett. All Rights Reserved. </sup> </p> 
