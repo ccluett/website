@@ -3,23 +3,23 @@ title: avalanche
 nav: true
 ---
 
-forecast and conditions
+forecast and observations
 * [backcountry avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)
 * [field observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)
 * [mt washington observatory summit conditions](https://mountwashington.org/weather/current-summit-conditions/)
 * [nws mt washington forecast](https://forecast.weather.gov/MapClick.php?lat=44.27049000000005&lon=-71.30345999999997)
 * [higher summits forecast](https://mountwashington.org/weather/higher-summits-forecast/)
 
-webcams  
-* [mt washington from wildcat](https://www.youtube.com/watch?v=p24ghWgdpew)
-* [observatory tower webcam](https://www.youtube.com/watch?v=5qVHjf7hKZU)
-* [observatory deck webcam](https://www.youtube.com/watch?v=RUN2G9r136c)  
-
 accidents
 * [mt washington avalanche accidents](https://www.mountwashingtonavalanchecenter.org/incidents/)
 * [national avalanche accidents](https://avalanche.org/avalanche-accidents/)
 
 <!---
+webcams  
+* [mt washington from wildcat](https://www.youtube.com/watch?v=p24ghWgdpew)
+* [observatory tower webcam](https://www.youtube.com/watch?v=5qVHjf7hKZU)
+* [observatory deck webcam](https://www.youtube.com/watch?v=RUN2G9r136c)  
+
 references
 * [avalanche encyclopedia](https://avalanche.org/avalanche-encyclopedia/)
 * [avalanche problems](https://avalanche.org/avalanche-encyclopedia/avalanche/avalanche-problems/)
