@@ -1,6 +1,6 @@
 ---
 title: avalanche
-nav: false
+nav: true
 ---
 
 forecast and conditions
