@@ -5,8 +5,8 @@ nav: about
 
 ## experience
 * [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/), Woods Hole Oceanographic Institution, Woods Hole, MA
-* Senior Naval Architect & Mechanical Engineer, Navatek LLC, South Kingstown, RI
-* Naval Architect & Marine Engineer, Bristol Harbor Group, Inc., Bristol, RI
+* Senior Naval Architect, Navatek LLC, South Kingstown, RI
+* Naval Architect, Bristol Harbor Group, Inc., Bristol, RI
 * Naval Architect, General Dynamics Electric Boat, Groton, CT  
 
 ## education
