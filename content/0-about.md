@@ -2,6 +2,21 @@
 title: about
 nav: about
 ---
+
+## experience
+* [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/), Woods Hole Oceanographic Institution, Woods Hole, MA
+* Senior Naval Architect & Mechanical Engineer, Navatek LLC, South Kingstown, RI
+* Naval Architect & Marine Engineer, Bristol Harbor Group, Inc., Bristol, RI
+* Naval Architect, General Dynamics Electric Boat, Groton, CT  
+
+## education
+B.S.E., Naval Architecture & Marine Engineering\
+University of Michigan, Ann Arbor, MI
+
+<br>
+{% include figure.html img="img_312438.jpg" width="100%" %}
+
+<!--- 
 ## experience
 [Naval Architect/Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/) (2019-Present)\
 [Oceanographic Systems Lab](https://www2.whoi.edu/site/osl/), [Woods Hole Oceanographic Institution](https://www.whoi.edu/) - Woods Hole, MA
@@ -19,6 +34,5 @@ Naval Architect (2012-2013)\
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
   
-<br>
-{% include figure.html img="img_312438.jpg" width="100%" %}
+
 
