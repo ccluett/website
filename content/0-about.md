@@ -13,7 +13,6 @@ nav: about
 B.S.E., Naval Architecture & Marine Engineering\
 University of Michigan, Ann Arbor, MI
 
-<br>
 {% include figure.html img="img_312438.jpg" width="100%" %}
 
 <!--- 
