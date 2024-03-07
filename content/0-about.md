@@ -34,5 +34,5 @@ Naval Architect (2012-2013)\
 B.S.E., [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) (2012)\
 University of Michigan - Ann Arbor, MI
   
-
+--> 
 
