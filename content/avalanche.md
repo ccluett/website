@@ -14,9 +14,16 @@ accidents
 * [mt washington avalanche accidents](https://www.mountwashingtonavalanchecenter.org/incidents/)
 * [national avalanche accidents](https://avalanche.org/avalanche-accidents/)
 
+{% include figure.html img="IMG_7054.jpg" width="100%" %}
+
 {% include figure.html img="airplane-gully.jpg" width="100%" %}
 
 {% include figure.html img="tucks.jpg" width="100%" %}
+
+
+
+
+
 
 <!---
 webcams  
