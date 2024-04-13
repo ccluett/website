@@ -33,6 +33,8 @@ nav: weather
 --------
 {% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
 
+[SBU WRF-ARW Forecasts](https://www.somassbu.org/wx/products/liwrf/)
+
 **Woods Hole, MA**
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
@@ -42,7 +44,7 @@ nav: weather
 **Mt Washington (5650-ft)**
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.2705&lon=-71.3035&wfo=GYX&zcode=NHZ002&gset=20&gdiff=6&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
-Short Range Forecast (Days ½-2½)
+**Short Range Forecast (Days ½-2½)**
 {% include figure.html img="https://origin.wpc.ncep.noaa.gov/basicwx/allfcsts_loop_ndfd.gif" caption="" width="100%" %}
 
 [Medium Range Forecast (Days 3-7)](https://www.wpc.ncep.noaa.gov/medr/medr.shtml)
@@ -61,8 +63,11 @@ Short Range Forecast (Days ½-2½)
 [Northeast GFS](https://www.tropicaltidbits.com/analysis/models/?model=gfs&region=neus&pkg=asnow) / 
 [NAM 3k Model](https://www.tropicaltidbits.com/analysis/models/?model=nam3km&region=neus&pkg=asnow)
 
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="GFS 5 Day Total" width="100%" %}
-{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="GFS 10 Day Total" width="100%" %}
+**GFS 5 Day Total**
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_21.png" caption="" width="100%" %}
+
+**GFS 10 Day Total**
+{% include figure.html img="https://weatherstreet.com/gfs_files/gfs_asnow_us_41.png" caption="" width="100%" %}
 
 # snow
 --------
