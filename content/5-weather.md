@@ -33,13 +33,13 @@ nav: weather
 --------
 {% include figure.html img="https://www.somassbu.org/wx/products/liwrf/front_page_loop.gif" caption="" width="300%" %}
 
-Woods Hole
+**Woods Hole, MA**
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=41.5535&lon=-70.6184&wfo=BOX&zcode=MAZ022&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
-Smuggs
-{% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.555&lon=-72.8042&wfo=BTV&zcode=VTZ006&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
+**Smuggler's Notch  (3343-ft)**
+{% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.5615&lon=-72.7585&wfo=BTV&zcode=VTZ006&gset=20&gdiff=10&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
-Mt Washington
+**Mt Washington (5650-ft)**
 {% include figure.html img="https://forecast.weather.gov/meteograms/Plotter.php?lat=44.2705&lon=-71.3035&wfo=GYX&zcode=NHZ002&gset=20&gdiff=6&unit=0&tinfo=EY5&ahour=0&pcmd=11011111111110000000000000000000000000000000000000000000000&lg=en&indu=1!1!1!&dd=&bw=&hrspan=48&pqpfhr=6&psnwhr=6" caption="" width="100%" %}
 
 Short Range Forecast (Days ½-2½)
