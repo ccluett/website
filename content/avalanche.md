@@ -20,6 +20,7 @@ accidents
 
 {% include figure.html img="tucks.jpg" width="100%" %}
 
+{% include figure.html img="IMG_7027.jpg" width="100%" %}
 
 
 
