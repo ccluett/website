@@ -19,6 +19,9 @@ nav: weather
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [NEXRAD Dual-Pol Loop](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad)
 {% include figure.html img="https://weather.cod.edu/cdata/satellite_r/local/Rhode_Island/current/Rhode_Island.radar.current.gif" caption="" width="100%" %}
+
+{% include figure.html img="https://radar.weather.gov/ridge/standard/KBOX_0.gif" caption="" width="100%" %}
+
 {% include figure.html img="https://s.w-x.co/staticmaps/wu/wxtype/county_loc/bml/animate.png" caption="" width="100%" %}
 {% include figure.html img="https://www.wpc.ncep.noaa.gov/sfc/radsfcus_exp_new.gif" caption="" width="100%" %}
 
