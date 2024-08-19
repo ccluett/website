@@ -3,21 +3,15 @@ title: Home
 layout: default
 ---
 
-I'm a senior naval architect and mechanical engineer at  Woods Hole Oceanographic Institution specializing in applied maritime research and technology development. My work focuses on developing autonomous underwater vehicles, surface vehicles, and advanced technologies in areas such as hydrodynamics, propulsion, structures, hydro-mechanical and subsea systems. 
-
-I apply strong theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is driven by real-world applications and constant feedback from at-sea system performance.
-
-{% include figure.html img="ULRAUV-render-1.jpg" width="100%" %}
-
-
-
-
+I'm a senior naval architect and mechanical engineer at  Woods Hole Oceanographic Institution specializing in applied maritime research and technology development. My work focuses on the research and development of autonomous underwater vehicles, surface vehicles, and advanced technologies in hydrodynamics, propulsion, subsea structures and systems. I apply theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is rooted in real-world application and continual feedback based on system at-sea performance.
 
 ---------
 <p style="text-align: center;"> <sup>  Copyright © 2024 Christopher Cluett. All Rights Reserved. </sup> </p> 
 
 
 <!---
+{% include figure.html img="ULRAUV-render-1.jpg" width="100%" %}
+
 {% include figure.html img="render-9-shark.jpg" width="100%" %}
 
 {% include figure.html img="4knots,100rpm_1.JPG" width="100%" %}
