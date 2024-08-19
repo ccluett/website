@@ -1,5 +1,5 @@
 ---
-title: avalanche
+title: avalanche links
 nav: true
 ---
 
