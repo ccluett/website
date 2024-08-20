@@ -1,5 +1,5 @@
 ---
-title: avalanche links
+title: forecast links
 nav: true
 ---
 
