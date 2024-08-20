@@ -7,7 +7,7 @@ I'm a [senior naval architect and mechanical engineer](https://www2.whoi.edu/sta
 
 I apply theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is rooted in real-world application and continual feedback based on at-sea system deployment & performance.
 
-I also run an independent creative design and development studio, [waterworks labs llc](https://waterworkslabs.com).
+I also run an independent creative design and R&D studio, [waterworks labs llc](https://waterworkslabs.com).
 
 ---------
 <p style="text-align: center;"> <sup>  Copyright © 2024 Christopher Cluett. All Rights Reserved. </sup> </p> 
