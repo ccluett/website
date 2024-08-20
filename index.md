@@ -3,7 +3,9 @@ title: Home
 layout: default
 ---
 
-I'm a [senior naval architect and mechanical engineer](https://www2.whoi.edu/staff/ccluett/) at  Woods Hole Oceanographic Institution specializing in applied maritime research and technology development. My work focuses on the research and development of autonomous underwater vehicles, surface vehicles, and advanced technologies in hydrodynamics, propulsion, subsea structures and systems. I apply theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is rooted in real-world application and continual feedback based on at-sea system deployment & performance.
+I'm a [senior naval architect and mechanical engineer](https://www2.whoi.edu/staff/ccluett/) at  Woods Hole Oceanographic Institution specializing in applied maritime research and technology development. My work focuses on the research and development of autonomous underwater vehicles, surface vehicles, and advanced technologies in hydrodynamics, propulsion, subsea structures and systems.
+
+I apply theoretical and computational capabilities in fluid dynamics, dynamic modeling, and structural analysis to conduct applied engineering and hardware development. My work is rooted in real-world application and continual feedback based on at-sea system deployment & performance.
 
 I also run an independent design and development studio, [waterworks labs llc](https://waterworkslabs.com).
 
