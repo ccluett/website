@@ -4,7 +4,7 @@ nav: about
 ---
 
 ## experience
-* Principal, waterworks labs llc
+* Principal, [waterworks labs llc](https://waterworkslabs.com)
 * [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/), Woods Hole Oceanographic Institution, Woods Hole, MA
 * Senior Naval Architect, Navatek LLC, South Kingstown, RI
 * Naval Architect, Bristol Harbor Group, Inc., Bristol, RI
