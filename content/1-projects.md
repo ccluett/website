@@ -11,5 +11,5 @@ Select professional projects have included:
 * Compliant UUV docking system for power and data transfer
 * Subsea composite structure design
 * High-speed planning hull design
-* [Commercial vessel design](1-vessels.md)
+* [Commercial vessel design](2-vessels.md)
 
