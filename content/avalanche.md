@@ -24,6 +24,7 @@ accidents
 
 {% include figure.html img="IMG_7027.jpg" width="100%" %}
 
+{% include figure.html img="IMG_1897.jpg" width="100%" %}
 
 
 <!---
