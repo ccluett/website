@@ -3,14 +3,11 @@ title: forecast links
 nav: true
 ---
 
-forecast and observations
 * [backcountry avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)
 * [field observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)
 * [mt washington observatory summit conditions](https://mountwashington.org/weather/current-summit-conditions/)
 * [nws mt washington forecast](https://forecast.weather.gov/MapClick.php?lat=44.27049000000005&lon=-71.30345999999997)
 * [higher summits forecast](https://mountwashington.org/weather/higher-summits-forecast/)
-
-accidents
 * [mt washington avalanche accidents](https://www.mountwashingtonavalanchecenter.org/incidents/)
 * [national avalanche accidents](https://avalanche.org/avalanche-accidents/)
 
