@@ -9,7 +9,7 @@ Select professional projects have included:
 * Hydrodynamic, propulsion and structural design for [torpedo tube launched and recovered UUV](https://hii.com/news/us-navy-submarines-drone-launch-torpedo-tube-remus-hii-2023/)
 * 3000-meter titanium dry hull UUV system and structural design
 * Compliant UUV subsea docking system for remote power and data transfer
-* Composite structure design
+* Marine composite structure design
 * High-speed planning hull design
 * [Commercial vessel design](2-vessels.md)
 
