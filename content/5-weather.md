@@ -105,7 +105,7 @@ nav: weather
 --------
 <!---Tropical--->
 {% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png" caption="" width="100%" %}
-{% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_5d0.png" caption="" width="100%" %}
+{% include figure.html img="https://www.nhc.noaa.gov/xgtwo/two_atl_7d0.png" caption="" width="100%" %}
 
 # ocean
 --------
