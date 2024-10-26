@@ -11,15 +11,15 @@ nav: true
 * [mt washington avalanche accidents](https://www.mountwashingtonavalanchecenter.org/incidents/)
 * [national avalanche accidents](https://avalanche.org/avalanche-accidents/)
 
-{% include figure.html img="IMG_7054.jpg" width="100%" %}
+{% include figure.html img="IMG_7054.jpg" width="100%" caption="somewhere in the beartooths outside cooke city, mt" %}
 
-{% include figure.html img="IMG_1923.jpg" width="100%" %}
+{% include figure.html img="IMG_1923.jpg" width="100%" caption="somewhere in the beartooths outside cooke city, mt" %}
 
-{% include figure.html img="airplane-gully.jpg" width="100%" %}
+{% include figure.html img="airplane-gully.jpg" width="100%" caption="airplane gully, mt washington" %}
 
-{% include figure.html img="tucks.jpg" width="100%" %}
+{% include figure.html img="tucks.jpg" width="100%" caption="tuckerman ravine" %}
 
-{% include figure.html img="IMG_7027.jpg" width="100%" %}
+{% include figure.html img="IMG_7027.jpg" width="100%" caption="montana" %}
 
 {% include figure.html img="IMG_1897.jpg" width="100%" %}
 
