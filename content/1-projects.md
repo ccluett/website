@@ -12,5 +12,3 @@ Select professional projects have included:
 * Marine composite structure design
 * High-speed planning hull design
 * [Commercial vessel design](2-vessels.md)
-
-{% include figure.html img="4knots,100rpm_1.JPG" width="100%" %}
