@@ -10,7 +10,7 @@ I apply theoretical and computational capabilities in fluid dynamics, dynamic mo
 I also run an independent creative design and R&D studio, [waterworks labs llc](https://waterworkslabs.com).
 
 ---------
-<p style="text-align: center;"> <sup>  Copyright © 2024 Christopher Cluett. All Rights Reserved. </sup> </p> 
+<p style="text-align: center;"> <sup>  Copyright © 2025 Christopher Cluett. All Rights Reserved. </sup> </p> 
 
 
 <!---
