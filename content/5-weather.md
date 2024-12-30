@@ -75,7 +75,8 @@ nav: weather
 {% include figure.html img="https://www.weather.gov/images/erh/gis/NE_Snow.png" caption="" width="100%" %}
 
 {% include figure.html img="https://www.weather.gov/images/box/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
-{% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %}
+<!-- {% include figure.html img="https://www.weather.gov/images/btv/winter/StormTotalSnowWeb.jpg" caption="" width="100%" %} -->
+{% include figure.html img="https://www.wpc.ncep.noaa.gov/Prob_Precip/idss-map/mapgen.php?office=BTV&ptype=prob_sn&summary=true&pointpreferences=BTV&product=expected" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/gyx/winter/StormTotalSnow.jpg" caption="" width="100%" %}
 {% include figure.html img="https://www.weather.gov/images/aly/winter/StormTotalSnow.jpg" caption="" width="100%" %}
 
