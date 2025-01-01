@@ -15,7 +15,7 @@ nav: true
 
 {% include figure.html img="IMG_1923.jpg" width="100%" %}
 
-{% include figure.html img="airplane-gully.jpg" width="100%" caption="airplane gully, mt washington nh" %}
+<!--- {% include figure.html img="airplane-gully.jpg" width="100%" caption="airplane gully, mt washington nh" %} --->
 
 {% include figure.html img="tucks.jpg" width="100%" caption="tuckerman ravine, nh" %}
 
