@@ -4,7 +4,6 @@ nav: about
 ---
 
 ## experience
-* Founder & Principal, [waterworks labs llc](https://waterworkslabs.com)
 * [Senior Naval Architect & Mechanical Engineer](https://www2.whoi.edu/staff/ccluett/), Woods Hole Oceanographic Institution, Woods Hole, MA
 * Senior Naval Architect, [Navatek LLC](https://www.pacmartech.com/), South Kingstown, RI
 * Naval Architect, [Bristol Harbor Group, Inc.](https://bristolharborgroup.com/), Bristol, RI
