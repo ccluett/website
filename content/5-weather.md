@@ -17,7 +17,7 @@ nav: weather
 
 [Northeast Loop](https://weather.cod.edu/satrad/?parms=subregional-New_England-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
 [CONUS Loop](https://weather.cod.edu/satrad/?parms=continental-conus-comp_radar-48-0-100-1&checked=map&colorbar=undefined) / 
-[NEXRAD Dual-Pol - MA](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad) /
+[NEXRAD Dual-Pol - BOS](https://weather.cod.edu/satrad/nexrad/?parms=BOX-N0B-0-24-100-usa-rad) /
 [NEXRAD Dual-Pol - BTV](https://weather.cod.edu/satrad/nexrad/?parms=CXX-N0B-0-24-100-usa-rad)
 {% include figure.html img="https://radar.weather.gov/ridge/standard/KBOX_0.gif" caption="" width="100%" %}
 {% include figure.html img="https://s.w-x.co/staticmaps/wu/wxtype/county_loc/bml/animate.png" caption="" width="100%" %}
