@@ -3,6 +3,7 @@ title: forecast links
 nav: true
 ---
 
+* [mt washington snowfall](https://www.waterworkslabs.com/snow/)
 * [backcountry avalanche forecast](https://www.mountwashingtonavalanchecenter.org/forecasts/#/presidential-range)
 * [field observations](https://www.mountwashingtonavalanchecenter.org/observations/#/view)
 * [mt washington observatory summit conditions](https://mountwashington.org/weather/current-summit-conditions/)
