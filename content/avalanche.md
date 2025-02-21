@@ -1,6 +1,6 @@
 ---
 title: forecast links
-nav: true
+nav: false
 ---
 
 * [mt washington snowfall](https://www.waterworkslabs.com/snow/)
