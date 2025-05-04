@@ -16,7 +16,7 @@ Key geometric parameters are defined as distributions along this axial span in a
 *   Standard propeller parameters: local radius (`r_l/R`), chord (`b/D`), pitch (`P/D`), thickness-to-chord ratio (`t/b`), camber-to-chord ratio (`f/b`), skew (`θs`), and rake (`x_l/D`).
 *   Toroidal-specific parameters necessary to define the blade's 3D path and orientation: **lateral angle (`φ`)**, **roll angle (`ψ`)**, and **vertical angle (`α`)**.
 
-The underlying **mathematical formulation** used to transform these distributed parameters into 3D Cartesian coordinates (`x`, `y`, `z`) for points on the blade surface is derived from the method presented by:
+The mathematical formulation used to transform these distributed parameters into 3D Cartesian coordinates (`x`, `y`, `z`) for points on the blade surface is derived from the method presented by Ye, Wang, and Son (2024). The coordinate system that defines the blade geometry can be expressed as:
 
 $$
 \begin{aligned}
@@ -26,7 +26,7 @@ z &= r \sin \theta
 \end{aligned}
 $$
 
-*   Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.
+Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.
 
 ## Key Features
 
