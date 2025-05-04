@@ -42,9 +42,18 @@ Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometr
 
 ## Integration
 
-This codebase is being developed as a modular tool. It is intended to integrate with established open-source propeller design framework  **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
+This codebase is being developed as a modular tool. It is intended to integrate with the established open-source propeller design framework **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
 
-Authoer note: In the interim before completing full OpenProp integration, to set chord and pitch distributions, the code adapts multi-row blade theory based on the work of Kerwin, Coney, and Hsin (1986). The forward and aft sections are treated as discrete blade rows. Tandem or co-rotating toroidal segments, all rotating at the same RPM and in the same direction, can then be treated as two or more lifting lines along the same rotor with axial separation. First, a vortex-lattice-based lifting-line method is performed for the forward row, yielding a swirl velocity distribution (as a function of radius) at the plane where the aft row begins. The aft row’s circulation distribution is then solved, accounting for this swirl and the freestream inflow. The solution is iterated until the overall design objective (e.g., combined minimum torque for a given thrust) is met, permitting an optimal allocation of loading between the forward and aft rows. The resulting geometry parameters are then unified back into the parametrized toroidal shape.
+**Implementation Note on Chord/Pitch Distribution:**
+
+While the eventual goal is full integration with OpenProp for comprehensive design optimization, I use the current implementation with an interim method for establishing initial chord and pitch distributions based on aerodynamic principles. This approach adapts multi-row blade theory (Kerwin, Coney, and Hsin, 1986) by treating the forward and aft portions of the toroidal loop as distinct lifting surfaces with axial separation.
+
+*   A vortex-lattice lifting-line method analyzes the forward section to determine the downstream swirl velocity distribution.
+*   The aft section's circulation is then calculated, accounting for this incoming swirl and the freestream inflow.
+*   This process is iterated to meet design targets (e.g., target thrust with minimum or balanced torque), optimizing the load distribution between the front and rear parts of the loop.
+*   The resulting chord and pitch parameters are mapped back onto the toroidal geometry defined by the axial span parameterization.
+
+Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.
 
 ## Usage and Output
 
@@ -59,7 +68,7 @@ I would recommend finalizing the exported surface mesh in Rhino 3D (e.g., add hu
 
 {% include figure.html img="cfd-toroidal-sim.png" width="100%" %}
 
-The results are consistent with other published research, where the overall efficiency is generally lower than a standard free-tip propeller. This is not surpirsing, given .... 
+The results are consistent with other published research, where the overall efficiency is generally lower than a standard free-tip propeller. This is not surprising, primarily due to the **significantly increased wetted surface area** of the continuous loop design compared to traditional open-tipped blades, which results in **higher frictional drag**. While toroidal designs aim to reduce noise by mitigating tip vortex formation, this often comes with a trade-off in peak hydrodynamic efficiency, particularly in open water conditions. The benefits may become more pronounced in specific applications where noise reduction or cavitation mitigation are paramount.
 
 {% include figure.html img="toroidal-coeffs.png" width="100%" %}
 
