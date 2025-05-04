@@ -1,9 +1,8 @@
 ---
 nav: toroidal
-title: false
----
+title: MATLAB Toroidal Propeller Generator
 
-## MATLAB Toroidal Propeller Generator
+---
 
 This repository contains MATLAB scripts designed to generate high quality, parametric 3D geometries of toroidal propellers for maritime vehicles for educational and research purposes only.
 
