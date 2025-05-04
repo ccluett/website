@@ -1,5 +1,6 @@
 ---
 nav: toroidal
+title: false
 ---
 
 ## MATLAB Toroidal Propeller Generator
