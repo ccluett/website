@@ -18,6 +18,14 @@ Key geometric parameters are defined as distributions along this axial span in a
 
 The underlying **mathematical formulation** used to transform these distributed parameters into 3D Cartesian coordinates (`x`, `y`, `z`) for points on the blade surface is derived from the method presented by:
 
+$$
+\begin{aligned}
+x &= (R + r \cos \theta) \cos \phi \\
+y &= (R + r \cos \theta) \sin \phi \\
+z &= r \sin \theta
+\end{aligned}
+$$
+
 *   Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.
 
 ## Key Features
