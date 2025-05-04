@@ -46,7 +46,7 @@ This codebase is being developed as a modular tool. It is intended to integrate 
 
 **Implementation Note on Chord/Pitch Distribution:**
 
-While the eventual goal is full integration with OpenProp for comprehensive design optimization, I use the current implementation with an interim method for establishing initial chord and pitch distributions based on aerodynamic principles. This approach adapts multi-row blade theory (Kerwin, Coney, and Hsin, 1986) by treating the forward and aft portions of the toroidal loop as distinct lifting surfaces with axial separation.
+While the eventual goal is full integration with OpenProp for comprehensive design optimization, I currently use an interim method for establishing initial chord and pitch distributions. This approach adapts multi-row blade theory (Kerwin, Coney, and Hsin, 1986) by treating the forward and aft portions of the toroidal loop as distinct lifting surfaces with axial separation. This is not provided in the Github repository at the moment.
 
 *   A vortex-lattice lifting-line method analyzes the forward section to determine the downstream swirl velocity distribution.
 *   The aft section's circulation is then calculated, accounting for this incoming swirl and the freestream inflow.
