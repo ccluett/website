@@ -5,7 +5,9 @@ nav: false
 
 # Toroidal Propeller Geometry Generator
 
-This repository contains MATLAB scripts designed to generate 3D surface geometry of toroidal propellers.
+This repository contains MATLAB scripts designed to generate high quality 3D surface geometries of toroidal propellers.
+
+{% include figure.html img="toroidal-uuv.png" width="100%" %}
 
 ## Methodology
 
@@ -34,17 +36,32 @@ Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometr
 *   **Blade Section Definition:** A dedicated `BladeSection.m` class handles the generation of the 2D airfoil profiles at each axial station.
     *   It currently implements the **NACA 66 (DTRC Modified)** thickness distribution and **NACA a=0.8** meanline profile using robust `pchip` interpolation on tabulated data.
     *   The class structure separates meanline and thickness definitions, allowing for easier extension to other airfoil families in the future.
-*   **Cosine Spacing:** For improved geometric fidelity, especially near edges and roots, the discretization along both the axial span (`nSpan`) and the chordwise direction (`nChord`) utilizes **cosine spacing** (`getCosineSpacing`).
+*   **Cosine Spacing:** For improved geometric fidelity, especially near edges and roots, the discretization along both the axial span (`nSpan`) and the chordwise direction (`nChord`) utilizes cosine spacing (`getCosineSpacing`).
+
+{% include figure.html img="parametric-blades.png" width="100%" %}
 
 ## Integration
 
-This codebase is being developed as a modular tool. It is intended to complement and potentially integrate with established open-source propeller design frameworks like **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
+This codebase is being developed as a modular tool. It is intended to integrate with established open-source propeller design framework  **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
+
+Authoer note: In the interim before completing full OpenProp integration, to set chord and pitch distributions, the code adapts multi-row blade theory based on the work of Kerwin, Coney, and Hsin (1986). The forward and aft sections are treated as discrete blade rows. Tandem or co-rotating toroidal segments, all rotating at the same RPM and in the same direction, can then be treated as two or more lifting lines along the same rotor with axial separation. First, a vortex-lattice-based lifting-line method is performed for the forward row, yielding a swirl velocity distribution (as a function of radius) at the plane where the aft row begins. The aft row’s circulation distribution is then solved, accounting for this swirl and the freestream inflow. The solution is iterated until the overall design objective (e.g., combined minimum torque for a given thrust) is met, permitting an optimal allocation of loading between the forward and aft rows. The resulting geometry parameters are then unified back into the parametrized toroidal shape.
 
 ## Usage and Output
 
 1.  Configure the desired propeller parameters within the `Params` structure in the main script `generateToroidalProp.m`.
 2.  Run the `generateToroidalProp.m` script.
-3.  The script outputs arrays (`xCoords`, `yCoords`, `zCoords`) containing the coordinates of points defining the surfaces of a single blade, which are then rotated to generate all blades (`allBlades` struct). This point cloud data can be used for meshing, visualization, or further analysis. Optional plotting and export functions are included or planned.
+3.  The script outputs arrays (`xCoords`, `yCoords`, `zCoords`) containing the coordinates of points defining the surfaces of a single blade, which are then rotated to generate all blades (`allBlades` struct). This point cloud data can be used for meshing, visualization, or further analysis. Plotting and export functions are included.
+4.  The exported surface mesh may then be brought in to high-fidelity CFD analysis.
+
+## Example CFD Performance Prediction
+
+I would recommend finalizing the exported surface mesh in Rhino 3D (e.g., add hub, check for closed surfaces). As an example, I brought a generated geometry into RANS CFD, using a rotating frame of reference method, and ran a sweep of advance velocities (J = Va / (nd)) by varying inlet velocity for a given RPM.
+
+{% include figure.html img="cfd-toroidal-sim.png" width="100%" %}
+
+The results are consistent with other published research, where the overall efficiency is generally lower than a standard free-tip propeller. This is not surpirsing, given .... 
+
+{% include figure.html img="toroidal-coeffs.png" width="100%" %}
 
 ## Repository
 
