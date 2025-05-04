@@ -5,7 +5,7 @@ nav: true
 
 # Toroidal Propeller Geometry Generator
 
-This repository contains MATLAB scripts designed to generate high quality, parametric 3D geometries of toroidal propellers for maritime vehicles.
+This repository contains MATLAB scripts designed to generate high quality, parametric 3D geometries of toroidal propellers for maritime vehicles for educational and research purposes only.
 
 {% include figure.html img="toroidal-uuv.png" width="100%" %}
 
@@ -28,7 +28,7 @@ z &= r \sin \theta
 \end{aligned}
 $$
 
-Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.
+*Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.*
 
 ## Key Features
 
@@ -55,7 +55,7 @@ While the eventual goal is full integration with OpenProp for complete design op
 
 This works okay, as I can easily bring in the geometry to CFD to develop accurate performance curves. This function is not up on Github yet.
 
-Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.
+*Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.*
 
 ## Usage and Output
 
