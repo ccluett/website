@@ -5,9 +5,9 @@ nav: false
 
 # MATLAB Toroidal Propeller Geometry Generator
 
-This repository contains MATLAB scripts designed to generate the 3D point cloud data representing the surface geometry of toroidal propellers. Toroidal propellers, with their characteristic closed-loop blades, offer potential benefits in noise reduction and efficiency but require specialized geometric modeling techniques compared to conventional open-tipped propellers.
+This repository contains MATLAB scripts designed to generate 3D surface geometry of toroidal propellers. Toroidal propellers.
 
-## Core Methodology
+## Methodology
 
 The generation process is based on parameterizing the propeller geometry along its **axial span (l/L)**, rather than purely radially. This approach is essential for accurately capturing the complex, continuous shape of the toroidal blades.
 
@@ -28,7 +28,7 @@ The underlying **mathematical formulation** used to transform these distributed 
     *   The class structure separates meanline and thickness definitions, allowing for easier extension to other airfoil families in the future.
 *   **Cosine Spacing:** For improved geometric fidelity, especially near edges and roots, the discretization along both the axial span (`nSpan`) and the chordwise direction (`nChord`) utilizes **cosine spacing** (`getCosineSpacing`).
 
-## Integration Goal
+## Integration
 
 This codebase is being developed as a modular tool. It is intended to complement and potentially integrate with established open-source propeller design frameworks like **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
 
