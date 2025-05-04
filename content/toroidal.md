@@ -1,6 +1,6 @@
 ---
 title: toroidal
-nav: false
+nav: true
 ---
 
 # Toroidal Propeller Geometry Generator
@@ -46,12 +46,14 @@ This codebase is being developed as a modular tool. It is intended to integrate 
 
 **Implementation Note on Chord/Pitch Distribution:**
 
-While the eventual goal is full integration with OpenProp for comprehensive design optimization, I currently use an interim method for establishing initial chord and pitch distributions. This approach adapts multi-row blade theory (Kerwin, Coney, and Hsin, 1986) by treating the forward and aft portions of the toroidal loop as distinct lifting surfaces with axial separation. This is not provided in the Github repository at the moment.
+While the eventual goal is full integration with OpenProp for complete design optimization, I currently use an interim method for establishing initial chord and pitch distributions. This approach adapts multi-row blade theory by Kerwin, Coney, and Hsin (1986) by treating the forward and aft portions of the toroidal loop as distinct lifting surfaces with axial separation then adding a tip correction.
 
 *   A vortex-lattice lifting-line method analyzes the forward section to determine the downstream swirl velocity distribution.
 *   The aft section's circulation is then calculated, accounting for this incoming swirl and the freestream inflow.
-*   This process is iterated to meet design targets (e.g., target thrust with minimum or balanced torque), optimizing the load distribution between the front and rear parts of the loop.
+*   This process is iterated to meet design targets (e.g., target thrust with minimum or balanced torque, cavitation, or strength limits), optimizing the load distribution between the front and rear parts of the loop.
 *   The resulting chord and pitch parameters are mapped back onto the toroidal geometry defined by the axial span parameterization.
+
+This works okay, as I can easily bring in the geometry to CFD to develop accurate performance curves. This function is not up on Github yet.
 
 Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.
 
@@ -68,7 +70,7 @@ I would recommend finalizing the exported surface mesh in Rhino 3D (e.g., add hu
 
 {% include figure.html img="cfd-toroidal-sim.png" width="100%" %}
 
-The results are consistent with other published research, where the overall efficiency is generally lower than a standard free-tip propeller. This is not surprising, primarily due to the **significantly increased wetted surface area** of the continuous loop design compared to traditional open-tipped blades, which results in **higher frictional drag**. While toroidal designs aim to reduce noise by mitigating tip vortex formation, this often comes with a trade-off in peak hydrodynamic efficiency, particularly in open water conditions. The benefits may become more pronounced in specific applications where noise reduction or cavitation mitigation are paramount.
+The results are consistent with other published research, where the overall efficiency is generally lower than a standard free-tip propeller. This is not surprising, primarily due to the significantly increased wetted surface area of the continuous loop design compared to traditional open-tipped blades, which results in higher frictional drag. While toroidal designs aim to reduce noise by mitigating tip vortex formation, this often comes with a trade-off in peak hydrodynamic efficiency, particularly in open water conditions. The benefits may become more pronounced in specific applications where noise reduction or cavitation mitigation are paramount.
 
 {% include figure.html img="toroidal-coeffs.png" width="100%" %}
 
