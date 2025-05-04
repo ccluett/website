@@ -3,9 +3,9 @@ title: toroidal
 nav: false
 ---
 
-# MATLAB Toroidal Propeller Geometry Generator
+# Toroidal Propeller Geometry Generator
 
-This repository contains MATLAB scripts designed to generate 3D surface geometry of toroidal propellers. Toroidal propellers.
+This repository contains MATLAB scripts designed to generate 3D surface geometry of toroidal propellers.
 
 ## Methodology
 
@@ -30,7 +30,7 @@ Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometr
 
 ## Key Features
 
-*   **Base Geometry + Scaling:** The code utilizes a base offset table (`getBaseOffsets`) representing a reference toroidal propeller design (based on the reference paper's example). Users can easily modify this base design by applying scaling factors to the distributions of pitch, chord, thickness, camber, skew, and rake via the main `Params` struct in `generateToroidalProp.m`. The hub radius (`hubRadius`) can also be parametrically adjusted.
+*   **Base Geometry + Scaling:** The code utilizes a base offset table (`getBaseOffsets`) representing a reference toroidal propeller design. Users can modify this base design by applying scaling factors to the distributions of pitch, chord, thickness, camber, skew, and rake via the main `Params` struct in `generateToroidalProp.m`. The hub radius (`hubRadius`) can also be parametrically adjusted.
 *   **Blade Section Definition:** A dedicated `BladeSection.m` class handles the generation of the 2D airfoil profiles at each axial station.
     *   It currently implements the **NACA 66 (DTRC Modified)** thickness distribution and **NACA a=0.8** meanline profile using robust `pchip` interpolation on tabulated data.
     *   The class structure separates meanline and thickness definitions, allowing for easier extension to other airfoil families in the future.
@@ -48,4 +48,4 @@ This codebase is being developed as a modular tool. It is intended to complement
 
 ## Repository
 
-The complete MATLAB source code is available on GitHub:
+The complete MATLAB source code is available on GitHub.
