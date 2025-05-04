@@ -5,7 +5,7 @@ nav: true
 
 # Toroidal Propeller Geometry Generator
 
-This repository contains MATLAB scripts designed to generate high quality 3D surface geometries of toroidal propellers.
+This repository contains MATLAB scripts designed to generate high quality, parametric 3D geometries of toroidal propellers for maritime vehicles.
 
 {% include figure.html img="toroidal-uuv.png" width="100%" %}
 
