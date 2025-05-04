@@ -1,5 +1,5 @@
 ---
-nav: true
+nav: toroidal
 ---
 
 # Toroidal Propeller Geometry Generator
