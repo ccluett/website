@@ -3,27 +3,6 @@ title: toroidal
 nav: true
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
-    onload="renderMathInElement(document.body);"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-        renderMathInElement(document.body, {
-          // customised options
-          // • auto-render specific keys, e.g.:
-          delimiters: [
-              {left: '$$', right: '$$', display: true},
-              {left: '$', right: '$', display: false},
-              {left: '\\(', right: '\\)', display: false},
-              {left: '\\[', right: '\\]', display: true}
-          ],
-          // • rendering keys, e.g.:
-          throwOnError : false
-        });
-    });
-</script>
-
 # Toroidal Propeller Geometry Generator
 
 This repository contains MATLAB scripts designed to generate high quality 3D surface geometries of toroidal propellers.
@@ -55,15 +34,15 @@ Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometr
 
 *   **Base Geometry + Scaling:** The code utilizes a base offset table (`getBaseOffsets`) representing a reference toroidal propeller design. Users can modify this base design by applying scaling factors to the distributions of pitch, chord, thickness, camber, skew, and rake via the main `Params` struct in `generateToroidalProp.m`. The hub radius (`hubRadius`) can also be parametrically adjusted.
 *   **Blade Section Definition:** A dedicated `BladeSection.m` class handles the generation of the 2D airfoil profiles at each axial station.
-    *   It currently implements the **NACA 66 (DTRC Modified)** thickness distribution and **NACA a=0.8** meanline profile using robust `pchip` interpolation on tabulated data.
-    *   The class structure separates meanline and thickness definitions, allowing for easier extension to other airfoil families in the future.
+    *   It currently implements the **NACA 66 (DTRC Modified)** thickness distribution and **NACA a=0.8** meanline profile using `pchip` interpolation on tabulated data.
+    *   The class structure separates meanline and thickness definitions, allowing for easier extension to other airfoil families.
 *   **Cosine Spacing:** For improved geometric fidelity, especially near edges and roots, the discretization along both the axial span (`nSpan`) and the chordwise direction (`nChord`) utilizes cosine spacing (`getCosineSpacing`).
 
 {% include figure.html img="parametric-blades.png" width="100%" %}
 
 ## Integration
 
-This codebase is being developed as a modular tool. It is intended to integrate with the established open-source propeller design framework **OpenProp**, providing specific capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
+This codebase is being developed as a modular tool. It is intended to integrate with the established open-source propeller design framework **OpenProp**, providing capabilities for generating toroidal geometries that can then be used within broader design and analysis workflows.
 
 **Implementation Note on Chord/Pitch Distribution:**
 
@@ -98,3 +77,26 @@ The results are consistent with other published research, where the overall effi
 ## Repository
 
 The complete MATLAB source code is available on GitHub.
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+          // customised options
+          // • auto-render specific keys, e.g.:
+          delimiters: [
+              {left: '$$', right: '$$', display: true},
+              {left: '$', right: '$', display: false},
+              {left: '\\(', right: '\\)', display: false},
+              {left: '\\[', right: '\\]', display: true}
+          ],
+          // • rendering keys, e.g.:
+          throwOnError : false
+        });
+    });
+</script>
