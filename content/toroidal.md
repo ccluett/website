@@ -29,6 +29,8 @@ $$
 
 *Ref: Ye L Y, Wang C, Sun C, et al. “Mathematical expression method for geometric shape of toroidal propeller”. *Chinese Journal of Ship Research*, 2024.*
 
+{% include figure.html img="toroid-points.png" width="100%" %} {% include figure.html img="tip-roll.png" width="100%" %}
+
 ## Features
 
 *   **Parameterization:** The code utilizes a base offset table (`getBaseOffsets`) representing a reference toroidal propeller design. Users can modify this base design by applying scaling factors to the distributions of pitch, chord, thickness, camber, skew, and rake via the main `Params` struct in `generateToroidalProp.m`. The hub radius (`hubRadius`) can also be parametrically adjusted.
@@ -52,7 +54,7 @@ While the eventual goal is full integration with OpenProp for complete design op
 *   This process is iterated to meet design targets (e.g., target thrust with minimum or balanced torque, cavitation, or strength limits), optimizing the load distribution between the front and rear parts of the loop.
 *   The resulting chord and pitch parameters are mapped back onto the toroidal geometry defined by the axial span parameterization.
 
-This works okay, as I can easily bring in the geometry to CFD to develop accurate performance curves. This function is not up on Github yet.
+This works okay for iteration. I can easily then export the geometry to CFD to develop final performance curves. This function is not up on Github yet.
 
 *Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.*
 
