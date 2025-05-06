@@ -6,8 +6,6 @@ title: MATLAB Toroidal Propeller Generator
 
 This repository contains MATLAB scripts designed to generate high-quality, parametric 3D geometries of toroidal propellers for maritime vehicles, for educational and research purposes.
 
-{% include figure.html img="toroidal-uuv.png" width="100%" %}
-
 ## Methodology
 
 The generation process is based on parameterizing the propeller geometry along its **axial span (l/L)**, rather than purely radially. This approach is essential for accurately capturing the complex, continuous shape of the toroidal blades.
