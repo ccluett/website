@@ -52,7 +52,7 @@ While the eventual goal is full integration with OpenProp for complete design op
 *   This process is iterated to meet design targets (e.g., target thrust with minimum or balanced torque, cavitation, or strength limits), optimizing the load distribution between the front and rear parts of the loop.
 *   The resulting chord and pitch parameters are mapped back onto the toroidal geometry defined by the axial span parameterization.
 
-This works okay for iteration. I can easily then export the geometry to CFD to develop final performance curves. This function is not up on Github yet.
+This works okay for iteration. I can then export the geometry to CFD to develop final performance curves. This function is not up on Github yet.
 
 *Ref: Kerwin, J. E., Coney, W. B., and Hsin, C. “Optimum Circulation Distributions for Single and Multi-Component Propulsors”. Proc. 21st American Towing Tank Conference, Washington, DC, 1986.*
 
@@ -65,7 +65,7 @@ This works okay for iteration. I can easily then export the geometry to CFD to d
 
 ## Example CFD Performance Prediction
 
-I would recommend finalizing the exported surface mesh in Rhino 3D (e.g., add hub, check for closed surfaces). As an example, I brought a generated geometry into RANS CFD, using a rotating frame of reference method, and ran a sweep of advance velocities (J = Va / (nd)) by varying inlet velocity for a given RPM.
+I would recommend finalizing the exported surface mesh in Rhino 3D (e.g., add hub, check for closed surfaces). As an example, I brought a generated geometry into RANS CFD. Using a rotating frame of reference method, I simulated across a range of advance ratios (J = Va / (nd)), varying inlet velocity.
 
 {% include figure.html img="cfd-toroidal-sim.png" width="100%" %}
 
